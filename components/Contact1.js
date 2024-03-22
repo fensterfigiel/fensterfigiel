@@ -51,7 +51,7 @@ const Contact1 = ({ onSubmit }) => {
 									<Card.Title>Telefon</Card.Title>
 
 									<Card.Text>Alexy: 0176 20614741</Card.Text>
-									<Button className="border-0 btn-nav" onClick={handleCall}>
+									<Button className="border-0 btn-primary" onClick={handleCall}>
 										Rufen
 									</Button>
 								</Card.Body>
@@ -67,7 +67,7 @@ const Contact1 = ({ onSubmit }) => {
 									<Card.Title>E-mail</Card.Title>
 									<Card.Text>fenster-figiel@t-online.de</Card.Text>
 									<Button
-										className="border-0 btn-nav my-3"
+										className="border-0 btn-primary my-3"
 										onClick={handleEmailClick}
 									>
 										E-Mail Schicken
@@ -93,7 +93,7 @@ const Contact1 = ({ onSubmit }) => {
 									</Card.Title>
 									<Card.Text>Hamerhutte 13 MG</Card.Text>
 									<Button
-										className="border-0 btn-nav"
+										className="border-0 btn-primary"
 										onClick={() => {
 											window.open(
 												"https://www.google.com/search?q=Fenster+Figiel&stick=H4sIAAAAAAAA_-NgU1I1qDAxT7JITDI0SjUxNkxLMzG3MqgwMzI3trRMAwqZmhimGpovYuVzS80rLkktUnDLTM9MzQEA6tub2zoAAAA&hl=pl&mat=CTyNLrkVZOfxElYB7PxHsb3Pk1NG_65JO-bKxJ8klJ62RbfsXBHiWZ6U0h8kt1_3iYt54OYDESlTwnfnCU-eEPGqS744U9u8LatRdMCVCe82YRPnGOECTgZ-OGIeGU52oA&authuser=0&ved=2ahUKEwiN2ZfN76eEAxVFRvEDHTD4AwkQ-MgIegQIJRAe#ip=1"
@@ -115,8 +115,8 @@ const Contact1 = ({ onSubmit }) => {
 							{!formSubmitted ? (
 								<Col>
 									{" "}
-									<h3 className="my-3 text-bold ">Snel Contact</h3>
-									<Form className="px-2" onSubmit={sendEmail}>
+									<h3 className="my-3 text-bold ">Schnell Kontakt</h3>
+									<Form className="px-2">
 										{" "}
 										<Row>
 											<Col>
@@ -162,19 +162,21 @@ const Contact1 = ({ onSubmit }) => {
 										</Row>
 										<Row className="align-items-center justify-content-center mt-4">
 											<Button
-												className="btn-nav w-50 "
+												className="btn-primary w-50 "
 												size="md"
 												type="submit"
 												onClick={(e) => sendEmail(e)}
 											>
-												Stuur
+												Schicken
 											</Button>
 										</Row>
 									</Form>
 								</Col>
 							) : (
 								<div>
-									<h3>Bedankt dat u contact met ons opneemt!</h3>
+									<h3>
+										Vielen Dank, dass Sie Kontakt mit uns aufgenommen haben !
+									</h3>
 									{/* Display additional content or redirect users */}
 								</div>
 							)}

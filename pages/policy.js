@@ -9,12 +9,30 @@ function Policy() {
 			</Row>
 
 			<Row className="justify-content-center mb-3 align-items-center text-center">
-				<Col lg={6}>
+				<Col lg={3}>
 					<h3>Kontakt und Impressium</h3>
 					<p>
 						Mustername Alexz Muster <br />
 						Tel: 0176 20614741 <br />
 						Hamerhütte 13, MG
+					</p>
+				</Col>
+				<Col lg={3}>
+					<h3> Registereintrag</h3>
+					<p>
+						Eintragung im Handelsregister.
+						<br /> Registergericht: HWK Düsseldorf <br />
+						Registernummer: 1224742
+						<br />
+					</p>
+				</Col>
+				<Col lg={3}>
+					<h3> Umsatzsteuer-ID</h3>
+					<p>
+						Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
+						<br /> DE230525084
+						<br />
+						<br />
 					</p>
 				</Col>
 			</Row>

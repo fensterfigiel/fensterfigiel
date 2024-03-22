@@ -75,23 +75,22 @@ function Testowy() {
 								>
 									<Image
 										className="slide-mobile"
-										src="/assets/Turen1.png"
+										src="/assets/7.png"
 										alt="First slide"
 										layout="fill"
 										objectFit="cover"
 									/>
 								</div>
-								<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
-									<h4 className="mobile-text">
-										Günstige PVC-Fenster aus Kömmerlingprofilen in allen
-										Varianten und Farben, auch mit Alu-Vorsatzschalen oder
-										lackiert.
-									</h4>
-
-									<Link href="fenster" className="">
-										<Button>FENSTER</Button>
-									</Link>
-								</Carousel.Caption>
+								<Link href="fenster" className="style-none">
+									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5 text-center">
+										<h4 className="mobile-text">
+											Günstige PVC-Fenster aus Kömmerlingprofilen in allen
+											Varianten und Farben, auch mit Alu-Vorsatzschalen oder
+											lackiert.
+										</h4>
+										<Button href="fenster">FENSTER</Button>
+									</Carousel.Caption>{" "}
+								</Link>
 							</Carousel.Item>
 							<Carousel.Item>
 								<div
@@ -107,16 +106,18 @@ function Testowy() {
 									/>
 								</div>
 
-								<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
-									<h4 className="mobile-text">
-										Balkontüren, Terassentüren- anlagen als HSK-T und HS-T. Hohe
-										Qualität zu niedrigen Preisen, direkt von einem der größten
-										Kömmerling Hersteller in Polen.
-									</h4>
-									<Link href="schiebeturen" className="">
+								<Link href="schiebeturen" className="">
+									{" "}
+									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
+										<h4 className="mobile-text">
+											Balkontüren, Terassentüren- anlagen als HSK-T und HS-T.
+											Hohe Qualität zu niedrigen Preisen, direkt von einem der
+											größten Kömmerling Hersteller in Polen.
+										</h4>
+
 										<Button>SCHIEBETÜREN</Button>
-									</Link>
-								</Carousel.Caption>
+									</Carousel.Caption>{" "}
+								</Link>
 							</Carousel.Item>
 							<Carousel.Item>
 								<div
@@ -125,22 +126,24 @@ function Testowy() {
 								>
 									<Image
 										className="slide-mobile"
-										src="/assets/roll1.png"
+										src="/assets/51.png"
 										alt="First slide"
 										layout="fill"
 										objectFit="cover"
 									/>
 								</div>
 
-								<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
-									<h4 className="mobile-text">
-										Wir liefern und montieren Kömmerling Fenster, Balkontüren,
-										Schiebetüren und Rollladen.
-									</h4>
-									<Link href="rolladen" className="">
+								<Link href="rolladen" className="">
+									{" "}
+									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
+										<h4 className="mobile-text">
+											Wir liefern und montieren Kömmerling Fenster, Balkontüren,
+											Schiebetüren und Rollladen.
+										</h4>
+
 										<Button>ROLLADEN</Button>
-									</Link>
-								</Carousel.Caption>
+									</Carousel.Caption>{" "}
+								</Link>
 							</Carousel.Item>
 							<Carousel.Item>
 								<div

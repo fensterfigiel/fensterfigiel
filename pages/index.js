@@ -16,7 +16,10 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>Fenster -Figiel</title>
+				<title>
+					Fenser Figiel - Profi für Fenster, Türen und Rollläden in
+					Mönchengladbach. Top Montage & Reparatur
+				</title>
 				<meta name="description" content="Meta" />
 				<meta name="robots" content="index, follow" />
 			</Head>

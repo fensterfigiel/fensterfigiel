@@ -8,6 +8,7 @@ import { Poppins } from "next/font/google";
 import CookieConsent from "./CookieConsent";
 
 import Footer from "./Footer";
+import Footer2 from "./Footer2";
 
 const poppins = Poppins({
 	weight: ["400", "700"],
@@ -26,6 +27,7 @@ const Layout = ({ children, pageProps }) => {
 				<footer>
 					{/* 	<ContactForm {...pageProps} /> */}
 					<Footer />
+					<Footer2 />
 				</footer>
 			</div>
 		</div>

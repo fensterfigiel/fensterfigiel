@@ -93,8 +93,7 @@ function Insektenschutz5() {
 							<h1>
 								Die Insektenschutzrollos extra stellen eine zuverlässige
 								Barriere gegen lästige Insekten dar und bieten eine einfache
-								Möglichkeit, Fenster und Türen vor ungebetenen Besuchern zu
-								schützen.
+								Möglichkeit, Fenster vor ungebetenen Besuchern zu schützen.
 							</h1>
 						</Card.Body>
 					</Card>

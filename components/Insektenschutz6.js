@@ -98,7 +98,7 @@ function Insektenschutz6() {
 							<Card.Text>
 								Insektenschutzrollos extra bieten eine besonders effektive
 								Lösung zum Schutz vor Insekten, indem sie als praktische Rollos
-								an Fenstern oder Türen angebracht werden.
+								an Fenstern angebracht werden.
 							</Card.Text>
 							<Card.Text>
 								Diese Rollos bestehen aus feinmaschigem Netzmaterial, das eine

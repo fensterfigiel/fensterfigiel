@@ -40,7 +40,7 @@ function contact() {
 	return (
 		<div className="">
 			<Head>
-				<title>Contacteer Ons | DG Bouwgroep</title>
+				<title>Fenster - Figiel Kontakt</title>
 				<meta
 					name="description"
 					content="Neem contact met ons op voor al uw bouw- en renovatiebehoeften. DG Bouwgroep staat klaar om u te helpen met hoogwaardige diensten op het gebied van ramen, isolatie, pleisterwerk en meer. Wij staan garant voor professioneel advies en uitvoering van uw projecten."

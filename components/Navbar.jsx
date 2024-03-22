@@ -314,7 +314,7 @@ const NavbarComp = ({ toggleTheme }) => {
 								className="btn-md py-2 btn-green text-white  border-0 shadow-md hover"
 								style={{ textTransform: "capitalize" }}
 							>
-								<MdOutlinePhoneInTalk /> Alexy: 0176 206 147 41
+								Kontakt
 							</Button>
 						</Nav.Link>
 					</Nav>

@@ -25,92 +25,98 @@ function Header6() {
 					<Accordion className="shadow-lg" defaultActiveKey="0">
 						<Accordion.Item eventKey="0">
 							<Accordion.Header>
-								<span>Welche Dienstleistungen bietet Fenster Figiel an?</span>
+								<span>Welche Dienstleistungen bietet Fenster Figiel an ?</span>
 							</Accordion.Header>
 							<Accordion.Body>
-								Unser Unternehmen Fenster Figiel ist spezialisiert auf den
-								Verkauf und die Montage von Fenstern, Rollläden, Fenstertüren
-								und vielem mehr. Wir legen Wert auf hochwertige Arbeit und
-								individuelle Kundenbetreuung, und unsere maßgeschneiderten
-								Lösungen decken eine Vielzahl von Bedürfnissen ab.
+								Unsere Firma Fenster Figiel spezialisiert sich auf den Verkauf
+								und die Montage von Fenstern, Rollläden, Schiebetüren und
+								Haustüren. Wir bieten auch kleine Elektroarbeiten bzw. kleine
+								Umbaumaßnahmen an, die mit der Fenstermontage oft
+								zusammenhängen.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="1">
 							<Accordion.Header>
 								<span>
-									Was ist die durchschnittliche Wartezeit bei Fenster Figiel?
+									Wie ist die durchschnittliche Wartezeit bei Fenster Figiel ?
 								</span>
 							</Accordion.Header>
 							<Accordion.Body>
-								Die Wartezeit bei Fenster Figiel variiert je nach Projektumfang
-								und Art. Für konkrete Informationen zur Wartezeit bitten wir
-								Sie, direkt mit uns Kontakt aufzunehmen, da diese von Fall zu
-								Fall unterschiedlich sein kann.
+								Nachdem alle technischen Anforderungen, diverse Details und
+								Einzelheiten der Bauelemente festgelegt worden sind, beträgt die
+								Fertigungszeit für PVC-Fenster ca. 5 Wochen und für
+								ALU-Bauelemente ca. 7 Wochen. Die Montage wird direkt nach
+								Lieferung geplant.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="2">
 							<Accordion.Header>
-								<span> Wie weit fährt Fenster Figiel für Projekte?</span>
+								<span>
+									{" "}
+									Wie weit fährt Fenster Figiel für einzelnen Projekte ?
+								</span>
 							</Accordion.Header>
 							<Accordion.Body>
-								Fenster Figiel bedient Mönchengladbach und umliegende Gebiete.
-								Unser Aktionsradius kann jedoch je nach Projekt variieren. Für
-								spezifische Informationen zu den Standorten, an denen wir tätig
-								sind, kontaktieren Sie uns bitte direkt. Düsseldorf, Duisburg
-								und mehr.
+								Unser Aktions-, bzw. Arbeitsradius erstreckt sich auf ca. 50 km
+								um die Stadt Mönchengladbach herum. In Ausnahmefällen kann er
+								noch etwas variieren.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="3">
 							<Accordion.Header>
-								<span>
-									Sind Vorauszahlungen bei Fenster Figiel erforderlich?
-								</span>
+								<span>Sind Anzahlungen bei Fenster Figiel erforderlich ?</span>
 							</Accordion.Header>
 							<Accordion.Body>
-								Vorauszahlungen können je nach Projekt und den vereinbarten
-								Bedingungen variieren. Für weitere Informationen zu den
-								Zahlungsbedingungen bei Fenster Figiel stehen wir Ihnen gerne
-								zur Verfügung.
+								Da unsere Bauelemente genau auf Maß gefertigt werden und keine
+								Standardbauelemente darstellen, bitten wir unsere Kunden um
+								Anzahlungen in Höhe von 30 % der Gesamtsumme.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="4">
 							<Accordion.Header>
 								<span>
-									Wo befindet sich die Hauptniederlassung von Fenster Figiel?
+									Gibt es Mindestzahlen an Bauelementen bei Fenster Figiel ?
 								</span>
 							</Accordion.Header>
 							<Accordion.Body>
-								Unsere Hauptniederlassung befindet sich in Mönchengladbach,
-								genauer gesagt in der Hamerhütte 13 41068 Mönchengladbach. Wir
-								bedienen jedoch verschiedene Standorte, abhängig von den
-								Projekten, die wir durchführen.
+								Da unsere Fenster-Bauelemente direkt von unserem Werk in Polen
+								zu unseren Kunden in Deutschland ausgeliefert werden, verteilen
+								sich die Kosten wesentlich besser, wenn mindestens 4-5
+								Bauelemente bestellt werden. Natürlich hängt das auch davon ab
+								wie groß diese Bauelemente sind und wie weit wir zur
+								Montagestelle fahren müssen.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="5">
 							<Accordion.Header>
 								<span>
-									{" "}
-									Welche Arten von Fenstern bietet Fenster Figiel an?
+									Bekomme ich die staatliche Förderung oder Zuschuss wenn ich
+									die Fenster bei Fenster Figiel bestelle ?
 								</span>
 							</Accordion.Header>
 							<Accordion.Body>
-								Fenster Figiel bietet eine Vielzahl von Fenstern an, darunter
-								Aluminium-, Holz- und Kunststofffenster verschiedener Marken und
-								Stile. Für weitere Details zu den verfügbaren Optionen nehmen
-								Sie bitte Kontakt mit uns auf.
+								Unsere Fenster und Bauelemente sind voll förderungsfähig. Den
+								staatlichen Zuschuss, wie z.B „Bafa“- oder „Kfw“ bekommen unsere
+								Kunden, wenn Sie mit einem Energieberater zusammen arbeiten, der
+								den Antrag stellt und die Erfüllung der erforderlichen
+								technischen Anforderungen bezüglich Fensterbauelemente prüft.
 							</Accordion.Body>
 						</Accordion.Item>
 						<Accordion.Item eventKey="6">
 							<Accordion.Header>
 								<span>
-									Welche Zertifikate und Maschinen hat Fenster Figiel?
+									Wie bekomme ich ein seriöses Angebot bei Fenster Figiel ?
 								</span>
 							</Accordion.Header>
 							<Accordion.Body>
-								Fenster Figiel verfügt über alle erforderlichen Zertifikate und
-								modernste Maschinen für verschiedene Bau- und
-								Renovierungsarbeiten. Wir verwenden zertifizierte Materialien
-								und Maschinen, um hochwertige Ergebnisse zu gewährleisten.
+								Am schnellsten bekommen Sie ein seriöses Angebot, wenn wir einen
+								Termin vor Ort vereinbaren. Das ist für Sie kostenfrei und
+								unverbindlich. Bei diesem Termin bekommen wir alle technische
+								Informationen für das Angebot, zeigen Ihnen auch Fenstermuster
+								und überlassen Ihnen informationsreiches Prospektmaterial. Wir
+								erstellen auch unverbindliche Angebote ohne Besuch vor Ort, aber
+								nur wenn wir vorher vom Kunden ausreichendes
+								Informationsmaterial zugeschickt bekommen.
 							</Accordion.Body>
 						</Accordion.Item>
 					</Accordion>

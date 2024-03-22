@@ -86,39 +86,6 @@ const Footer = () => {
 						</Card.Body>
 					</Card>
 				</Col>
-				<Col lg={3} sm={6} className=" mx-auto ">
-					<Card style={{ maxWidth: "21rem" }} className=" rounded  border-0  ">
-						<Card.Body className="">
-							<h3 className="my-3 text-bold">Unser Unternehmen</h3>
-							<Link href="/uberuns" className="footer-links">
-								<Card.Text className="py-2 hover ">Über uns</Card.Text>
-							</Link>
-							<Link href="/contact" className="footer-links">
-								<Card.Text className="py-2 hover ">Kontakt</Card.Text>
-							</Link>
-
-							<Link href="/contact" className="footer-links">
-								<Card.Text className="py-2 hover ">Fragen</Card.Text>
-							</Link>
-							<Link href="werk" className="footer-links ">
-								<Card.Text className="py-2 hover">Projecte</Card.Text>
-							</Link>
-						</Card.Body>
-						<Card.Text className="footer-links contact-links">
-							<a
-								target="_blank"
-								href=""
-								style={{ outline: "none", textDecoration: "none" }}
-							>
-								<AiOutlineFacebook
-									style={{ fontSize: "3rem" }}
-									className="contact-icons fb-icon"
-								/>{" "}
-								<span className="text-bold text-dark">Fenster Figiel</span>
-							</a>
-						</Card.Text>
-					</Card>
-				</Col>
 
 				<Col lg={3} sm={6} className=" mx-auto my-1">
 					<Card
