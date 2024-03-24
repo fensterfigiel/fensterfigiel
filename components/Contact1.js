@@ -91,7 +91,7 @@ const Contact1 = ({ onSubmit }) => {
 									<Card.Title>
 										<HiOutlineLocationMarker style={{ fontSize: "4rem" }} />
 									</Card.Title>
-									<Card.Text>Hamerhutte 13 MG</Card.Text>
+									<Card.Text>Hamerhutte 13 Mönchengladbach</Card.Text>
 									<Button
 										className="border-0 btn-primary"
 										onClick={() => {
@@ -105,82 +105,6 @@ const Contact1 = ({ onSubmit }) => {
 								</Card.Body>
 							</Card>
 						</Col>{" "}
-						<Col
-							lg={5}
-							md={8}
-							sm={8}
-							xs={11}
-							className=" mx-auto my-3 parent-container bg-white py-4 shadow-lg rounded"
-						>
-							{!formSubmitted ? (
-								<Col>
-									{" "}
-									<h3 className="my-3 text-bold ">Schnell Kontakt</h3>
-									<Form className="px-2">
-										{" "}
-										<Row>
-											<Col>
-												<Form.Group className="mb-3" controlId="name">
-													<Form.Control
-														type="text"
-														placeholder="Naam"
-														value={formData.name}
-														onChange={handleChange}
-													/>
-												</Form.Group>
-											</Col>
-											<Col>
-												<Form.Group className="mb-3" controlId="phone">
-													<Form.Control
-														type="text"
-														placeholder="Telefoon"
-														onChange={handleChange}
-														value={formData.phone}
-													/>
-												</Form.Group>
-											</Col>
-										</Row>
-										<Row>
-											<Form.Group className="mb-3" controlId="email">
-												<Form.Control
-													type="email"
-													placeholder="E-mail"
-													onChange={handleChange}
-													value={formData.email}
-												/>
-											</Form.Group>
-										</Row>
-										<Row>
-											<Form.Group className="mb-3" controlId="description">
-												<Form.Control
-													as="textarea"
-													placeholder="Beschrijving"
-													onChange={handleChange}
-													value={formData.description}
-												/>
-											</Form.Group>
-										</Row>
-										<Row className="align-items-center justify-content-center mt-4">
-											<Button
-												className="btn-primary w-50 "
-												size="md"
-												type="submit"
-												onClick={(e) => sendEmail(e)}
-											>
-												Schicken
-											</Button>
-										</Row>
-									</Form>
-								</Col>
-							) : (
-								<div>
-									<h3>
-										Vielen Dank, dass Sie Kontakt mit uns aufgenommen haben !
-									</h3>
-									{/* Display additional content or redirect users */}
-								</div>
-							)}
-						</Col>
 					</Row>
 				</div>
 			</Container>

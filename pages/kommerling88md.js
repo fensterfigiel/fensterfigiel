@@ -11,10 +11,13 @@ function kommerling88md() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Kömmerling 88 MD</title>
+				<title>
+					Fenster-Figiel Individuelle PVC-Fenster in Duisburg: Kömmerling 88 MD
+					im Fokus
+				</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Wir bieten Ihnen individuelle PVC-Fensterlösungen in Duisburg an, darunter das hochwertige Modell Kömmerling 88 MD."
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>

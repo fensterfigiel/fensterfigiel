@@ -79,7 +79,7 @@ function Pvcturen3() {
 			fluid
 			className=" bg-dark mt-5 text-dark py-5 align-items-center justify-content-center"
 			style={{
-				backgroundImage: `url('/assets/Aufsatz1.png')`,
+				backgroundImage: `url('/assets/turen22.png')`,
 				backgroundSize: "cover",
 				backgroundPosition: "center",
 			}}

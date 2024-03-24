@@ -18,10 +18,10 @@ function fensterpvc() {
 	return (
 		<div className="">
 			<Head>
-				<title>fensterpvc</title>
+				<title>Fenster Figiel PVC Fenster in Düsseldorf kaufen</title>
 				<meta
 					name="description"
-					content="Ontdek de voordelen van dakisolatie door DG Bouwgroep. Wij bieden hoogwaardige isolatiediensten voor uw dak, met professionele installatie voor een betere energie-efficiëntie en temperatuurregeling in uw woning."
+					content="Entdecken Sie unsere Auswahl an hochwertigen PVC-Fenstern in Düsseldorf. Wir führen Produkte wie Kömmerling 88 MD, Kömmerling 76 MD und vieles mehr!"
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>

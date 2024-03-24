@@ -79,13 +79,13 @@ function Turfullungen1() {
 			fluid
 			className=" bg-dark mt-5 text-dark py-5 align-items-center justify-content-center"
 			style={{
-				backgroundImage: `url('/assets/Aufsatz1.png')`,
+				backgroundImage: `url('/assets/turen23.png')`,
 				backgroundSize: "cover",
 				backgroundPosition: "center",
 			}}
 		>
 			<Row className="justify-content-center align-items-center text-center">
-				<Col lg={8} className="mx-auto my-2">
+				<Col lg={6} className="mx-auto my-2">
 					<Card className="border-0 bg-transparent text-white ">
 						<Card.Body>
 							<h1 className="text-bold">DINDECOR - DIE SERIE PREMIUM</h1>

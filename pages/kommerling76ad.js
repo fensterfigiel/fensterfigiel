@@ -11,10 +11,12 @@ function kommerling76ad() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Kömmerling 76 AD</title>
+				<title>
+					Fenster-Figiel Fensterbau in Mönchengladbach: Kömmerling 76 AD
+				</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Erfahren Sie mehr über unsere maßgeschneiderten Fensterlösungen in Mönchengladbach, darunter die beliebten Modelle Kömmerling 76 MD und Kömmerling 76 AD."
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>

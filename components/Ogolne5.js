@@ -82,7 +82,7 @@ function Ogolne5() {
 			<Row className="justify-content-center  align-items-center">
 				<Col lg={5} className="mx-auto my-2 text-center ">
 					<Image
-						src="/assets/hausturen.png"
+						src="/assets/fen5.png"
 						width={600}
 						height={500}
 						className="responsive-image shadow-lg"

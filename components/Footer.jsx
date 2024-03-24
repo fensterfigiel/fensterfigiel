@@ -71,13 +71,13 @@ const Footer = () => {
 					>
 						<Card.Body className="">
 							<h3 className="my-3 text-bold">Dienste</h3>
-							<Link href="isolatie" className="footer-links ">
+							<Link href="fenster" className="footer-links ">
 								<Card.Text className="py-2 hover">Fenster</Card.Text>
 							</Link>
-							<Link href="ramen" className="footer-links">
+							<Link href="schiebeturen" className="footer-links">
 								<Card.Text className="py-2 hover ">Schiebetüren</Card.Text>
 							</Link>
-							<Link href="pleisterwerk" className="footer-links">
+							<Link href="rolladen" className="footer-links">
 								<Card.Text className="py-2 hover ">Rolladen</Card.Text>
 							</Link>
 							<Link href="hausturen" className="footer-links">
@@ -107,16 +107,10 @@ const Footer = () => {
 			</Row>
 			<Row className="text-center my-2 align-items-center">
 				<Col>
-					<h6 className="text-black">
-						2023 Fenster Figiel Alle Rechte vorbehalten
-					</h6>
-				</Col>
-
-				<Col>
 					<Link href="/policy" className="footer-links ">
 						<h6 className="hover">Politik & Impressium</h6>
 					</Link>
-				</Col>
+				</Col>{" "}
 				<Col className="hover">
 					<h6 className="text-black">
 						Design
@@ -129,6 +123,11 @@ const Footer = () => {
 								alt="webdesign-nettetal-pixel-genie"
 							/>
 						</a>
+					</h6>
+				</Col>
+				<Col>
+					<h6 className="text-black">
+						2023 Fenster Figiel Alle Rechte vorbehalten
 					</h6>
 				</Col>
 			</Row>

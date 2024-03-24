@@ -11,10 +11,13 @@ function lackiertefensterauspvc() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Lackierte Fenster aus PVC</title>
+				<title>
+					Fenster-Figiel Lackierte PVC-Fenster für ein modernes : Fenster
+					Krefeld Ambiente
+				</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Erleben Sie den Charme lackierter PVC-Fenster in Krefeld und entdecken Sie unsere Auswahl an hochwertigen Produkten."
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>

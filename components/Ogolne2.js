@@ -87,8 +87,8 @@ function Ogolne2() {
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
 							<Card.Text className="text-bold">
-								Unsere Firma ist spezialisiert auf die Bereitstellung einer
-								breiten Palette hochwertiger Fensterlösungen für Ihr Zuhause.{" "}
+								Fenster Figiel, ist spezialisiert auf die Bereitstellung einer
+								breiten Palette hochwertiger Fensterlösungen für Ihr Zuhause.
 							</Card.Text>
 							<Card.Text>
 								Von maßgefertigten Fenstern aus verschiedenen Materialien bis
@@ -99,8 +99,8 @@ function Ogolne2() {
 
 							<Card.Text>
 								Darüber hinaus bieten wir professionelle Montagedienstleistungen
-								an, um sicherzustellen, dass Ihre neuen Fenster fachgerecht
-								installiert werden und optimal funktionieren.
+								an, um sicherzustellen, dass Ihre neuen Fenster von Fenster
+								Figiel fachgerecht installiert werden und optimal funktionieren.
 							</Card.Text>
 							<Card.Text></Card.Text>
 							<Card.Text>
@@ -125,7 +125,7 @@ function Ogolne2() {
 					}`}
 				>
 					<Image
-						src="/assets/fenster.png"
+						src="/assets/fen2.png"
 						width={600}
 						height={500}
 						className="responsive-image shadow-lg"

@@ -83,7 +83,7 @@ function Turfullungen2() {
 		>
 			<Row className="justify-content-center  align-items-center">
 				<Col lg={6} className="mx-auto my-2 ">
-					<Card className="border-0 bg-transparent ">
+					<Card className="border-0 bg-transparent text-center">
 						<Card.Body>
 							<h1 className="text-bold">DINDECOR - DIE SERIE PREMIUM</h1>
 						</Card.Body>
@@ -98,8 +98,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
 					/>
+					<Row>
+						<h3 className="text-bold">1101</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -107,8 +109,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
 					/>
+					<Row>
+						<h3 className="text-bold">1401</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -116,8 +120,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">1701</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -125,8 +131,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">1301</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -137,8 +145,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">2201</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -146,8 +156,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">2701</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -155,8 +167,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">2801 Freez</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -164,8 +178,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5006</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -176,8 +192,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5003</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -185,8 +203,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">2802</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -194,8 +214,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5001</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -203,8 +225,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5002</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -215,8 +239,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">3201</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -224,8 +250,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">3101</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -233,8 +261,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">2801</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -242,8 +272,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5007</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -254,8 +286,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5012</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -263,8 +297,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5016</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -272,8 +308,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5004</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -281,8 +319,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5008</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -293,8 +333,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5020</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -302,8 +344,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5005</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -311,8 +355,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5010</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -320,8 +366,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5011</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -332,8 +380,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5013</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -341,8 +391,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5021</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -350,8 +402,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5022</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -359,8 +413,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5014</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -371,8 +427,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5023</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -380,8 +438,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5024</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -389,8 +449,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5017</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -398,8 +460,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5025</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -410,8 +474,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5026</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -419,8 +485,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5018</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -428,8 +496,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5027</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -437,8 +507,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5028</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -449,8 +521,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5019</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -458,8 +532,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5030</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -467,8 +543,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5031</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -476,8 +554,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5029</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -488,8 +568,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5040</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -497,8 +579,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5038</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -506,8 +590,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5032</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -515,8 +601,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5033</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -527,8 +615,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">5039</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -536,8 +626,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6001</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -545,8 +637,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6007</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -554,8 +648,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6010</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -566,8 +662,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6008</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -575,8 +673,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6002</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -584,8 +684,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6013</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -593,8 +695,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6004</h3>
+					</Row>
 				</Col>
 			</Row>
 			<Row>
@@ -605,8 +709,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6015</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -614,8 +720,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6009</h3>
+					</Row>
 				</Col>{" "}
 				<Col lg={3} className="mx-auto my-2 text-center ">
 					<Image
@@ -623,8 +731,10 @@ function Turfullungen2() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
-					/>
+					/>{" "}
+					<Row>
+						<h3 className="text-bold">6003</h3>
+					</Row>
 				</Col>{" "}
 			</Row>
 		</Container>
