@@ -75,7 +75,7 @@ function Testowy() {
 								>
 									<Image
 										className="slide-mobile"
-										src="/assets/7.png"
+										src="/assets/7-1.png"
 										alt="First slide"
 										layout="fill"
 										objectFit="cover"
@@ -99,7 +99,7 @@ function Testowy() {
 								>
 									<Image
 										className="slide-mobile"
-										src="/assets/schiebeturen.png"
+										src="/assets/schiebeturen-1.png"
 										alt="First slide"
 										layout="fill"
 										objectFit="cover"
@@ -126,7 +126,7 @@ function Testowy() {
 								>
 									<Image
 										className="slide-mobile"
-										src="/assets/51.png"
+										src="/assets/51-1.png"
 										alt="First slide"
 										layout="fill"
 										objectFit="cover"
@@ -152,7 +152,7 @@ function Testowy() {
 								>
 									<Image
 										className="slide-mobile"
-										src="/assets/hausturen.png"
+										src="/assets/hausturen-1.png"
 										alt="First slide"
 										layout="fill"
 										objectFit="cover"
