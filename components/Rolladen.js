@@ -93,6 +93,29 @@ function Rolladen() {
 						</Card.Body>{" "}
 					</Card>
 				</Col>{" "}
+				<Col lg={4} className="mx-auto my-2 text-center ">
+					{" "}
+					<Image
+						src="/assets/raff4.png"
+						width={300}
+						height={300}
+						className="responsive-image  "
+						alt="binnenisolatie2"
+					/>{" "}
+					<Card className="border-0 bg-transparent ">
+						<Card.Body>
+							<Card.Text>
+								Raffstoren sind vielseitige Sonnenschutzsysteme, die sowohl für
+								die ästhetische Integration in die Architektur als auch für
+								effektiven Schutz vor Sonneneinstrahlung und unerwünschten
+								Blicken in Gebäuden konzipiert wurden.
+							</Card.Text>
+							<Link href="raffstoren">
+								<Button className="btn-primary  btn-lg">Raffstoren</Button>
+							</Link>
+						</Card.Body>{" "}
+					</Card>
+				</Col>{" "}
 			</Row>
 		</Container>
 	);

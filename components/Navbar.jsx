@@ -247,7 +247,30 @@ const NavbarComp = ({ toggleTheme }) => {
 									<span className="text-bold">Insektenschutzrollos extra</span>
 								</NavDropdown.Item>
 							</NavDropdown>
-							<NavDropdown title="Raffstoren?" className="my-1"></NavDropdown>
+							<NavDropdown title="Raffstoren" className="my-1">
+								<NavDropdown.Item as={Link} href="/raffstoren" className="my-1">
+									<span className="text-bold"> Raffstoren</span>
+								</NavDropdown.Item>
+								<NavDropdown.Divider />
+								<NavDropdown.Item as={Link} href="skyflows">
+									<span className="text-bold">
+										Freitragenden Konstruktion SkyFlow SZF/S
+									</span>
+								</NavDropdown.Item>{" "}
+								<NavDropdown.Item as={Link} href="skyflowp">
+									<span className="text-bold">
+										Unterputzsystem SkyFlow SZF/P
+									</span>
+								</NavDropdown.Item>
+								<NavDropdown.Item as={Link} href="skyflowbx">
+									<span className="text-bold">
+										Unterputzsystem SkyFlow SZF/BX
+									</span>
+								</NavDropdown.Item>
+								<NavDropdown.Item as={Link} href="skyflowa">
+									<span className="text-bold">Vorbausystem SkyFlow SZF/A</span>
+								</NavDropdown.Item>
+							</NavDropdown>
 						</NavDropdown>
 
 						<NavDropdown
