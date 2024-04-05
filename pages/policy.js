@@ -1,16 +1,24 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-
+import Head from "next/head";
 function Policy() {
 	return (
 		<Container fluid className="py-5 mt-2 bg-light text-dark">
+			<Head>
+				<title>Politik und Impressium | Fenster Figiel</title>
+				<meta
+					name="description"
+					content="Fenster Figiel bietet professionelle Dienstleistungen für den Verkauf und die Montage hochwertiger Fenster, Türen und Rollläden in Mönchengladbach und Umgebung. Erfahren Sie mehr über unsere maßgeschneiderten Lösungen und unsere herausragende Handwerkskunst."
+				/>
+				<meta name="robots" content="index, follow" />
+			</Head>
 			<Row className="text-center">
 				<h2 className="py-3">Datenschutz & Impressumserklärung</h2>
 			</Row>
 
 			<Row className="justify-content-center mb-3 align-items-center text-center">
 				<Col lg={3}>
-					<h3>Kontakt und Impressium</h3>
+					<h3>Kontakt und Impressum</h3>
 					<p>
 						Mustername Alexz Muster <br />
 						Tel: 0176 20614741 <br />
@@ -153,6 +161,37 @@ function Policy() {
 						Website erklären Sie sich damit einverstanden, sich den
 						ausschließlichen Gerichtsstand und die ausschließliche Zuständigkeit
 						der Gerichte dieses Landes zu unterwerfen.
+					</p>
+				</Col>
+			</Row>
+
+			<Row className="my-2">
+				<Col>
+					<h3>Haftungsausschluss</h3>
+					<p>
+						Wir übernehmen keine Gewähr für die Richtigkeit, Vollständigkeit und
+						Aktualität der Inhalte unserer Webseite. Als Diensteanbieter sind
+						wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach
+						den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind
+						wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder
+						gespeicherte fremde Informationen zu überwachen oder nach Umständen
+						zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+						Verpflichtungen zur Entfernung oder Sperrung der Nutzung von
+						Informationen nach den allgemeinen Gesetzen bleiben hiervon
+						unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem
+						Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei
+						Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese
+						Inhalte umgehend entfernen.
+					</p>
+				</Col>
+			</Row>
+
+			<Row className="my-2">
+				<Col>
+					<h3>Bildnachweise</h3>
+					<p>
+						Einige Bilder auf dieser Website stammen von Canva.com und werden
+						unter der Lizenzvereinbarung von Canva verwendet.
 					</p>
 				</Col>
 			</Row>

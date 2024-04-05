@@ -18,7 +18,7 @@ function error() {
 					<h1 className="text-dark">Error</h1>
 					<Link href="/">
 						<Button className="btn-nav ">
-							<h5 className="text-dark">Huis</h5>
+							<h5 className="text-dark">Haus</h5>
 						</Button>
 					</Link>
 				</Col>

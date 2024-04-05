@@ -12,8 +12,13 @@ function rolladen() {
 				<title>Rolladen Fenster Figiel</title>
 				<meta
 					name="description"
-					content="Ontdek de kunst van stukadoorswerk bij DG Bouwgroep. Wij bieden hoogwaardige pleisterdiensten aan voor uw woning, met vakmanschap en precisie, om uw muren te transformeren en een perfecte afwerking te garanderen."
+					content="Entdecken Sie hochwertige Rolladen und Fensterlösungen bei Figiel. Wir bieten maßgeschneiderte Produkte für Ihr Zuhause an, die Qualität und Stil vereinen. Kontaktieren Sie uns heute für weitere Informationen!"
 				/>
+				<meta
+					name="keywords"
+					content="Rolladen, Fenster, Figiel, maßgeschneidert, hochwertig, Qualität, Stil, individuell, Haus, Wohnung, Hersteller, Dienstleistungen"
+				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Rolladen />

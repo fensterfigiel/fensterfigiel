@@ -14,6 +14,10 @@ function fenster() {
 					name="description"
 					content="Fenster Figiel bietet professionelle Dienstleistungen für den Verkauf und die Montage hochwertiger Fenster, Türen und Rollläden in Mönchengladbach und Umgebung. Erfahren Sie mehr über unsere maßgeschneiderten Lösungen und unsere herausragende Handwerkskunst."
 				/>
+				<meta
+					name="keywords"
+					content="Fenster, Fenster Figiel, Mönchengladbach, hochwertig, Türen, Rollläden, Verkauf, Montage, maßgeschneidert, Handwerkskunst, Fensterinstallation, professionell"
+				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Fenster />

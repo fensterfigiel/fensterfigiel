@@ -7,10 +7,14 @@ function hausturen() {
 	return (
 		<div className="">
 			<Head>
-				<title>hausturen </title>
+				<title>Haustüren Fenster Figiel </title>
 				<meta
 					name="description"
-					content="Ervaar comfort en efficiënte verwarming met vloerverwarmingssystemen van DG Bouwgroep. Ontdek innovatieve oplossingen die gelijkmatige warmteverdeling bieden, energie besparen en het comfort in uw huis verbeteren."
+					content="Haustüren Fenster Figiel – Die besten Lösungen für Ihr Zuhause. Wir bieten hochwertige Türen und Fenster, die Ihre Erwartungen erfüllen werden. Kontaktieren Sie uns noch heute!"
+				/>
+				<meta
+					name="keywords"
+					content="Haustüren, Fenster, Figiel, Türen, Fenster, hochwertig, Haus, Wohnung, deutscher, Hersteller, Dienstleistungen"
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>

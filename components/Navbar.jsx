@@ -237,7 +237,7 @@ const NavbarComp = ({ toggleTheme }) => {
 									href="insektenschutzrollsintegriert"
 								>
 									<span className="text-bold">
-										Insektenschutzrolls integriert im Aufsatz-rolladenkasten{" "}
+										Insektenschutzrolls im Aufsatz-rolladenkasten
 									</span>
 								</NavDropdown.Item>{" "}
 								<NavDropdown.Item as={Link} href="insektenspannrahmen">
@@ -253,9 +253,7 @@ const NavbarComp = ({ toggleTheme }) => {
 								</NavDropdown.Item>
 								<NavDropdown.Divider />
 								<NavDropdown.Item as={Link} href="skyflows">
-									<span className="text-bold">
-										Freitragenden Konstruktion SkyFlow SZF/S
-									</span>
+									<span className="text-bold">Freitragenden SkyFlow SZF/S</span>
 								</NavDropdown.Item>{" "}
 								<NavDropdown.Item as={Link} href="skyflowp">
 									<span className="text-bold">

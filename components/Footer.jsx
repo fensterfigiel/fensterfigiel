@@ -55,7 +55,7 @@ const Footer = () => {
 					<div className="d-flex justify-content-center align-items-center">
 						<Image
 							alt="logo"
-							src="/assets/FENSTER FIGIEL Logo.png"
+							src="/assets/logo.png"
 							width={300}
 							height={300}
 							className="footer-logo-mobile"

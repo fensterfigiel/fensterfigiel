@@ -11,7 +11,11 @@ function schiebeturen() {
 				<title>Schiebetüren | Fenster Figiel</title>
 				<meta
 					name="description"
-					content="Entdecken Sie bei Fenster Figiel eine Vielzahl von hochwertigen Schiebetüren für Ihr Zuhause. Unsere Experten bieten professionelle Beratung und maßgeschneiderte Lösungen für Schiebetüren in Mönchengladbach und Umgebung. Erfahren Sie mehr über unsere Auswahl und lassen Sie sich von unserer Handwerkskunst überzeugen."
+					content="Entdecken Sie unsere hochwertigen Schiebetüren und Fenster bei Figiel. Wir bieten maßgeschneiderte Lösungen für Ihr Zuhause, die Funktionalität und Ästhetik vereinen. Kontaktieren Sie uns noch heute!"
+				/>
+				<meta
+					name="keywords"
+					content="Schiebetüren, Fenster, Figiel, maßgeschneidert, hochwertig, Funktionalität, Ästhetik, individuell, Haus, Wohnung, Hersteller, Dienstleistungen"
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
