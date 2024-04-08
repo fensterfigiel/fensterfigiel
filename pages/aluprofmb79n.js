@@ -14,11 +14,12 @@ function aluprofmb79n() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aluprof MB-79N</title>
+				<title>Fenster Figiel Aluprof MB-79N</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Erfahren Sie mehr über den Aluprof MB-79N, eine wirtschaftliche Lösung für Fenster mit unsichtbaren Flügeln von außen. Dieses Produkt bietet zwei Rahmenversionen, hohe Wärme- und Schalldämmung sowie Luft- und Wasserdichtigkeit, was zu einem einheitlichen Erscheinungsbild der Fassade führt. Entdecken Sie die hochwertigen Eigenschaften dieses Fensters bei Fenster Figiel, Ihrem erfahrenen Fensterbauer aus Mönchengladbach."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Falu5 />

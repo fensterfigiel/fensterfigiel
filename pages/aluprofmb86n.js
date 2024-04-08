@@ -14,11 +14,12 @@ function aluprofmb86n() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aluprof MB-86N</title>
+				<title>Fenster Figiel Aluprof MB-86N</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Erfahren Sie mehr über das MB-86N Fenster- und Türensystem, das herausragende Leistung und Flexibilität bietet. Mit drei Profilvarianten (ST, SI+) für thermische Effizienz und einem hervorragenden Wärmedurchgangskoeffizienten von 0,62 W/(m2K) ermöglicht dieses System große und schwere Konstruktionen durch robuste Profilstruktur. Entdecken Sie dieses innovative Produkt bei Fenster Figiel, Ihrem Fensterbauer in der Nähe, auch in der Region Mönchengladbach und umliegenden Gebieten."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Falu7 />

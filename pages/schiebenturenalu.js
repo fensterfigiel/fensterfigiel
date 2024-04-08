@@ -19,11 +19,8 @@ function schiebenturenalu() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Schiebetüren ALU</title>
-				<meta
-					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
-				/>
+				<title>Fenster Figiel Schiebetüren ALU</title>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Salu1 />

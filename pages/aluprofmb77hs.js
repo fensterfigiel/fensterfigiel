@@ -19,11 +19,12 @@ function aluprofmb77hs() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aluprof MB-77HS</title>
+				<title>Fenster Figiel Aluprof MB-77HS</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Entdecken Sie die hochwertigen Aluprof MB-77HS Fenster von Fenster Figiel, Ihrem renommierten Fensterbauer aus Mönchengladbach. Unsere Fenster zeichnen sich durch herausragende Qualität, innovative Technologie und stilvolles Design aus. Vertrauen Sie auf Fenster Figiel für Fensterlösungen, die höchsten Ansprüchen an Energieeffizienz, Langlebigkeit und Ästhetik gerecht werden."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Salu7 />

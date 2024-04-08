@@ -12,7 +12,7 @@ function kommerling76md() {
 		<div className="">
 			<Head>
 				<title>
-					Fenster-Figiel Fensterbau in Mönchengladbach: Kömmerling 76 MD
+					Fenster Figiel Fensterbau in Mönchengladbach: Kömmerling 76 MD
 				</title>
 				<meta
 					name="description"

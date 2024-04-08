@@ -13,11 +13,14 @@ function schiebenturenpvc() {
 	return (
 		<div className="">
 			<Head>
-				<title>schiebenturenpvc</title>
+				<title>
+					Schiebetüren PVC - Moderne und praktische Lösungen von Fenster Figiel
+				</title>
 				<meta
 					name="description"
-					content="Transformeer de uitstraling en energie-efficiëntie van uw huis met onze professionele diensten voor isolatie van buitenmuren. DG Bouwgroep biedt hoogwaardige isolatiediensten voor buitenmuren, die niet alleen de energie-efficiëntie verbeteren, maar ook de esthetiek van uw huis verhogen."
+					content="Entdecken Sie Schiebetüren aus PVC von Fenster Figiel - moderne und praktische Lösungen für Ihr Zuhause. Unsere PVC Schiebetüren bieten nicht nur ein zeitgemäßes Design, sondern auch eine hohe Wärmedämmung und Langlebigkeit. Erfahren Sie mehr über unsere vielseitigen Produkte und lassen Sie sich von Fenster Figiel beraten."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Schiebeturenpvc1 />

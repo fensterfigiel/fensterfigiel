@@ -63,7 +63,7 @@ function Testowy2() {
 			fluid
 			className="mt-5 pt-5 align-items-center bg-light justify-content-center"
 		>
-			<Carousel>
+			<Carousel preload={true}>
 				<Carousel.Item>
 					<Image
 						className="d-block w-100"

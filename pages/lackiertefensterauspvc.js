@@ -12,7 +12,7 @@ function lackiertefensterauspvc() {
 		<div className="">
 			<Head>
 				<title>
-					Fenster-Figiel Lackierte PVC-Fenster für ein modernes : Fenster
+					Fenster Figiel Lackierte PVC-Fenster für ein modernes : Fenster
 					Krefeld Ambiente
 				</title>
 				<meta

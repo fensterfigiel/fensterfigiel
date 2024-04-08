@@ -19,10 +19,10 @@ function aliplastultraglide() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aliplast Ultraglide</title>
+				<title>Fenster Figiel Aliplast Ultraglide</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Entdecken Sie das beeindruckende Sortiment von Fenster Figiel mit Aliplast Ultraglide Fenstern - für höchste Qualität, innovative Funktionalität und zeitlose Eleganz. Vertrauen Sie auf die Expertise von Fenster Figiel aus Mönchengladbach für Fensterlösungen, die Ihre Erwartungen übertreffen."
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>

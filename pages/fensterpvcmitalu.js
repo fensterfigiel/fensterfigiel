@@ -24,11 +24,15 @@ function fensterpvcmitalu() {
 	return (
 		<div className="">
 			<Head>
-				<title>fensterpvcmitalu</title>
+				<title>
+					PVC Fenster mit Aluschale - Innovative Fensterlösungen von Fenster
+					Figiel
+				</title>
 				<meta
 					name="description"
-					content="Ontdek de voordelen van dakisolatie door DG Bouwgroep. Wij bieden hoogwaardige isolatiediensten voor uw dak, met professionele installatie voor een betere energie-efficiëntie en temperatuurregeling in uw woning."
+					content="Entdecken Sie PVC Fenster mit Aluschale von Fenster Figiel - innovative Fensterlösungen, die höchste Qualität und modernes Design vereinen. Unsere PVC Fenster mit Aluschale bieten herausragende Wärmedämmung und Langlebigkeit. Erfahren Sie mehr über unsere vielseitigen Produkte und lassen Sie sich von Fenster Figiel beraten."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Fpvcmit1 />

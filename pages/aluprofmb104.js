@@ -16,11 +16,12 @@ function aluprofmb104() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aluprof MB-104</title>
+				<title>Fenster Figiel Aluprof MB-104</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Entdecken Sie das Fenstersystem mit thermischer Trennung MB-104 Passive, das alle Anforderungen für Passivhäuser erfüllt. Dieses System eignet sich zur Herstellung von architektonischen Außenbauelementen mit hervorragender Wärmedämmung, sehr guter Schalldämmung, Luft- und Wasserdichtigkeit sowie hoher Konstruktionsfestigkeit. Erfahren Sie mehr über Fenster mit Aufmaß bei Fenster Figiel, Ihrem Fensterbauer in der Nähe, der auch in Mönchengladbach und umliegenden Gebieten tätig ist."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Falu9 />

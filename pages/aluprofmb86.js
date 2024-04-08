@@ -18,8 +18,9 @@ function aluprofmb86() {
 				<title>Fenster-Figiel Aluprof MB-86</title>
 				<meta
 					name="description"
-					content="Ontdek de kunst van stukadoorswerk bij DG Bouwgroep. Wij bieden hoogwaardige pleisterdiensten aan voor uw woning, met vakmanschap en precisie, om uw muren te transformeren en een perfecte afwerking te garanderen."
+					content="Entdecken Sie das Aluprof MB-86 - das weltweit erste Aluminium-Türsystem mit Aerogel für außergewöhnliche Wärmedämmung und Robustheit. Erfahren Sie mehr bei Fenster Figiel, Ihrem erfahrenen Fensterbauer aus Mönchengladbach, auch in Duisburg, Viersen, Nettetal, Krefeld und anderen Städten in der Region tätig."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Talu3 />

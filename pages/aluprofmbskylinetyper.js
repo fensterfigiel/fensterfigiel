@@ -19,11 +19,12 @@ function aluprofmbskylinetyper() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aluprof MB-SKYLINE TYPE R</title>
+				<title>Fenster Figiel Aluprof MB-SKYLINE TYPE R</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Erleben Sie das ALUPROF MB-SKYLINE TYPE R - ein hochmodernes, groß angelegtes Schiebetürsystem, das durch Leichtigkeit und Ästhetik besticht. Mit schlanken Profilen bietet es ein zeitgemäßes Aussehen und eine atemberaubende Panoramaaussicht auf die Umgebung. Lassen Sie sich von Fenster Figiel inspirieren und entdecken Sie, wie unsere Schiebetüren Ihr Zuhause in ein elegantes und lichtdurchflutetes Paradies verwandeln können."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Salu9 />

@@ -24,11 +24,12 @@ function aluclip76md() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aluclip 76 MD</title>
+				<title>Fenster Figiel Aluclip 76 MD</title>
 				<meta
 					name="description"
-					content="Ontdek de voordelen van dakisolatie door DG Bouwgroep. Wij bieden hoogwaardige isolatiediensten voor uw dak, met professionele installatie voor een betere energie-efficiëntie en temperatuurregeling in uw woning."
+					content="Entdecken Sie die hochwertigen Aluclip 76 MD Fenster von Fenster Figiel, Ihrem erfahrenen Fensterbauer aus Mönchengladbach. Unsere Aluclip 76 MD Fenster bieten nicht nur herausragende Qualität und Langlebigkeit, sondern auch innovative Technologie für höchste Energieeffizienz und stilvolles Design. Verlassen Sie sich auf Fenster Figiel für maßgeschneiderte Fensterlösungen, die Ihren Wohnraum perfekt ergänzen und Ihren Komfort steigern."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Fpvcmit1 />

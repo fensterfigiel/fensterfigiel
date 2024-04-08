@@ -13,11 +13,8 @@ function kommerlingpremidoor76lux() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Kömmerling PremiDoor 76 LUX</title>
-				<meta
-					name="description"
-					content="Transformeer de uitstraling en energie-efficiëntie van uw huis met onze professionele diensten voor isolatie van buitenmuren. DG Bouwgroep biedt hoogwaardige isolatiediensten voor buitenmuren, die niet alleen de energie-efficiëntie verbeteren, maar ook de esthetiek van uw huis verhogen."
-				/>
+				<title>Fenster Figiel Kömmerling PremiDoor 76 LUX</title>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Schiebeturenpvc3 />

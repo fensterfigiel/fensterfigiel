@@ -15,11 +15,12 @@ function aluprofmb104turen() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aluprof MB-104</title>
+				<title>Fenster Figiel Aluprof MB-104</title>
 				<meta
 					name="description"
-					content="Ontdek de kunst van stukadoorswerk bij DG Bouwgroep. Wij bieden hoogwaardige pleisterdiensten aan voor uw woning, met vakmanschap en precisie, om uw muren te transformeren en een perfecte afwerking te garanderen."
+					content="Entdecken Sie die Spitzenleistung des Türensystems MB-104 Passive mit Wärmebarriere. Dieses innovative System bietet höchste Wärmeisolierung und erfüllt sämtliche Anforderungen für den Einsatz in Passivhäusern. Tauchen Sie ein in die Welt von Fenster Figiel und finden Sie heraus, wie Sie mit unseren hochwertigen Haustüren und Fenstern Ihr Zuhause in ein Energieeffizienzparadies verwandeln können."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Talu5 />

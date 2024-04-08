@@ -41,10 +41,7 @@ function contact() {
 		<div className="">
 			<Head>
 				<title>Fenster - Figiel Kontakt</title>
-				<meta
-					name="description"
-					content="Neem contact met ons op voor al uw bouw- en renovatiebehoeften. DG Bouwgroep staat klaar om u te helpen met hoogwaardige diensten op het gebied van ramen, isolatie, pleisterwerk en meer. Wij staan garant voor professioneel advies en uitvoering van uw projecten."
-				/>
+				<meta name="description" content="Kontakt" />
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Contact1 onSubmit={handleFormSubmit} />

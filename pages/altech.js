@@ -15,11 +15,12 @@ function altech() {
 	return (
 		<div className="">
 			<Head>
-				<title> Fenster-Figiel Türfüllungen AL-TECH</title>
+				<title> Fenster Figiel Türfüllungen AL-TECH</title>
 				<meta
 					name="description"
-					content="Ontdek de kunst van stukadoorswerk bij DG Bouwgroep. Wij bieden hoogwaardige pleisterdiensten aan voor uw woning, met vakmanschap en precisie, om uw muren te transformeren en een perfecte afwerking te garanderen."
+					content="Entdecken Sie die hochwertigen Türfüllungen AL-TECH von Fenster Figiel, Ihrem zuverlässigen Fensterbauer aus Mönchengladbach. Unsere Türfüllungen bieten nicht nur ein ansprechendes Design, sondern auch erstklassige Qualität und Langlebigkeit. Vertrauen Sie auf die Erfahrung von Fenster Figiel für hochwertige Lösungen, die Ihren Wohnraum stilvoll ergänzen und Ihre Erwartungen übertreffen."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 

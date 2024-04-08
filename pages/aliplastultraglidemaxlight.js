@@ -19,11 +19,12 @@ function aliplastultraglidemaxlight() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Aliplast Ultraglide Max Light</title>
+				<title>Fenster Figiel Aliplast Ultraglide Max Light</title>
 				<meta
 					name="description"
-					content="Verbeter het comfort van uw huis met isolatie van binnenmuren door DG Bouwgroep. Ontdek onze hoogwaardige isolatiediensten voor binnenmuren, die helpen bij geluidsreductie, temperatuurregulatie en het verbeteren van de energie-efficiëntie van uw woning."
+					content="Genießen Sie unübertroffenen Komfort und maximales Tageslicht mit den Aliplast Ultraglide Max Light Fenstern von Fenster Figiel, Ihrem Fensterbauer aus Mönchengladbach. Entdecken Sie unsere hochwertigen Fensterlösungen, die nicht nur für optimale Isolierung und Lärmschutz sorgen, sondern auch dank ihres innovativen Designs für maximale Lichtdurchlässigkeit in Ihren Wohnraum bringen. Verlassen Sie sich auf die Expertise von Fenster Figiel für Fenster, die Ihren Wohnkomfort auf ein neues Niveau heben."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Salu3 />

@@ -26,11 +26,12 @@ function aluclippro() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster-Figiel Kömmerling Mitteldichtung AluClip Pro</title>
+				<title>Fenster Figiel Kömmerling Mitteldichtung AluClip Pro</title>
 				<meta
 					name="description"
-					content="Ontdek de voordelen van dakisolatie door DG Bouwgroep. Wij bieden hoogwaardige isolatiediensten voor uw dak, met professionele installatie voor een betere energie-efficiëntie en temperatuurregeling in uw woning."
+					content="Entdecken Sie die hochwertigen Fenster Kömmerling Mitteldichtung AluClip Pro von Fenster Figiel, Ihrem erfahrenen Fensterbauer aus Mönchengladbach. Unsere Fenster sind von höchster Qualität und werden in Polen hergestellt. Verlassen Sie sich auf Fenster Figiel für maßgeschneiderte Fensterlösungen mit innovativem Design und erstklassiger Energieeffizienz."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Fpvcmit3 />
