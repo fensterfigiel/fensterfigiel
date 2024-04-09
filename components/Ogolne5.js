@@ -86,7 +86,7 @@ function Ogolne5() {
 						width={600}
 						height={500}
 						className="responsive-image shadow-lg"
-						alt="bouw8"
+						alt="fensterbauer5"
 					/>
 				</Col>
 				<Col lg={5} className="mx-auto my-2 ">

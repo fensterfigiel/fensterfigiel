@@ -18,11 +18,16 @@ function fensterpvc() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Figiel PVC Fenster in Düsseldorf kaufen</title>
+				<title>
+					Fenster Figiel | PVC Fenster kaufen in Mönchengladbach - Hochwertige
+					Auswahl
+				</title>
+
 				<meta
 					name="description"
-					content="Entdecken Sie unsere Auswahl an hochwertigen PVC-Fenstern in Düsseldorf. Wir führen Produkte wie Kömmerling 88 MD, Kömmerling 76 MD und vieles mehr!"
+					content="Entdecken Sie unsere Auswahl an hochwertigen PVC-Fenstern aus Polen in Mönchengladbach. Wir führen Produkte wie Kömmerling 88 MD, Kömmerling 76 MD und vieles mehr! Kontaktieren Sie uns für professionelle Beratung und Montage."
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Fpvc6 />

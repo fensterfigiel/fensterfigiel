@@ -31,7 +31,7 @@ function Schiebeturen() {
 						width={300}
 						height={300}
 						className="responsive-image shadow-lg "
-						alt="termoisolatie2"
+						alt="schiebeturen1"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
@@ -55,7 +55,7 @@ function Schiebeturen() {
 						width={300}
 						height={300}
 						className="responsive-image  "
-						alt="binnenisolatie2"
+						alt="schiebeturen2"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>

@@ -118,7 +118,7 @@ function Rstoren1() {
 						width={500}
 						height={400}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="raffstoren1"
 					/>
 				</Col>
 			</Row>

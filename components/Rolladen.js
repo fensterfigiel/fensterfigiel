@@ -29,7 +29,7 @@ function Rolladen() {
 						width={300}
 						height={300}
 						className="responsive-image shadow-lg "
-						alt="termoisolatie2"
+						alt="fensterrolladen1"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
@@ -52,7 +52,7 @@ function Rolladen() {
 						width={300}
 						height={300}
 						className="responsive-image shadow-lg "
-						alt="termoisolatie2"
+						alt="fensterrolladen2"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
@@ -76,7 +76,7 @@ function Rolladen() {
 						width={300}
 						height={300}
 						className="responsive-image  "
-						alt="binnenisolatie2"
+						alt="fensterrolladen3"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
@@ -100,7 +100,7 @@ function Rolladen() {
 						width={300}
 						height={300}
 						className="responsive-image  "
-						alt="binnenisolatie2"
+						alt="fensterrolladen4"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>

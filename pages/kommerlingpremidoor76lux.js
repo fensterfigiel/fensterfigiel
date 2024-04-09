@@ -13,7 +13,14 @@ function kommerlingpremidoor76lux() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Figiel Kömmerling PremiDoor 76 LUX</title>
+				<title>
+					Kömmerling PremiDoor 76 LUX - Innovative Schiebetür mit großen
+					Glasflächen | Fenster Figiel
+				</title>
+				<meta
+					name="description"
+					content="Erleben Sie mehr Licht, mehr Komfort und einen besseren Ausblick mit der Kömmerling PremiDoor 76 LUX. Die intelligente Konstruktion reduziert das Flügelprofil für extrem schlanke Profilansichten und ermöglicht größere Glasflächen sowie höhere solare Wärmezugewinne. Entdecken Sie die innovative Schiebetür von Fenster Figiel und kontaktieren Sie uns für eine professionelle Montage in Duisburg, Mönchengladbach, Krefeld und Umgebung!"
+				/>
 
 				<meta name="robots" content="index, follow" />
 			</Head>

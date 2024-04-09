@@ -17,10 +17,17 @@ function insektenschutz() {
 	return (
 		<div className="">
 			<Head>
-				<title> Fenster Figiel Insektenschutz</title>
-
+				<title>
+					Fenster Figiel Insektenschutz | Hochwertige Lösungen für
+					Insektenschutz
+				</title>
+				<meta
+					name="description"
+					content="Entdecken Sie hochwertige Insektenschutzlösungen von Fenster Figiel. Wir bieten maßgeschneiderte Produkte für Fenster und Türen, um Ihr Zuhause vor lästigen Insekten zu schützen. Vereinbaren Sie noch heute eine Beratung!"
+				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
+
 			<Insektenschutz1 />
 			<Insektenschutz2 />
 			<Insektenschutz3 />

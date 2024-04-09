@@ -17,7 +17,14 @@ function insektenschutzrollsintegriert() {
 	return (
 		<div className="">
 			<Head>
-				<title> Fenster Figiel Insektenschutzrolls Integriert</title>
+				<title>
+					Fenster Figiel Insektenschutzrolls Integriert | Effektiver Schutz für
+					Ihre Fenster und Türen
+				</title>
+				<meta
+					name="description"
+					content="Erfahren Sie, wie Sie Ihr Zuhause mit unseren hochwertigen Insektenschutzrolls Integriert von Fenster Figiel effektiv schützen können. Vereinbaren Sie jetzt eine Beratung und lassen Sie sich von unseren Experten helfen!"
+				/>
 
 				<meta name="robots" content="index, follow" />
 			</Head>

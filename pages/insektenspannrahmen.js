@@ -17,8 +17,14 @@ function insektenspannrahmen() {
 	return (
 		<div className="">
 			<Head>
-				<title> Fenster Figiel Insektenschutz Spannrahmen</title>
-
+				<title>
+					Fenster Figiel Insektenschutz Spannrahmen | Maßgeschneiderte Lösungen
+					für insektenfreie Wohnräume
+				</title>
+				<meta
+					name="description"
+					content="Unsere hochwertigen Insektenschutz Spannrahmen von Fenster Figiel bieten maßgeschneiderte Lösungen für effektiven Schutz vor unerwünschten Insekten. Vereinbaren Sie noch heute eine Beratung und profitieren Sie von unserer Expertise!"
+				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
 

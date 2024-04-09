@@ -134,7 +134,7 @@ function Fpvcmit4() {
 						width={400}
 						height={500}
 						className="responsive-image shadow-lg"
-						alt="termoisolatie3"
+						alt="pvcfenstermitalu2"
 					/>
 				</Col>
 			</Row>

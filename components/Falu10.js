@@ -136,7 +136,7 @@ function Falu10() {
 						width={400}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="alufenster10"
 					/>
 				</Col>
 			</Row>

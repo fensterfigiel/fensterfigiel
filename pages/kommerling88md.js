@@ -12,7 +12,7 @@ function kommerling88md() {
 		<div className="">
 			<Head>
 				<title>
-					Fenster Figiel Individuelle PVC-Fenster in Duisburg: Kömmerling 88 MD
+					Fenster Figiel Individuelle PVC Fenster in Duisburg: Kömmerling 88 MD
 					im Fokus
 				</title>
 				<meta

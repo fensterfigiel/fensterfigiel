@@ -1,50 +1,24 @@
 import Contact1 from "/components/Contact1";
-import emailjs from "@emailjs/browser";
-import { init } from "@emailjs/browser";
+
 import React from "react";
 import Head from "next/head";
 import { useState, useEffect } from "react";
 
-init(process.env.NEXT_PUBLIC_REACT_APP_PUBLIC_KEY);
 function contact() {
-	const [alertContent, setAlertContent] = useState({});
-	const [showAlert, setShowAlert] = useState(false);
-
-	const handleFormSubmit = (formData) => {
-		emailjs
-			.send(
-				"service_y1k37xn",
-				"template_i4ptcrc",
-				formData,
-				process.env.NEXT_PUBLIC_REACT_APP_PUBLIC_KEY
-			)
-			.then(
-				(result) => {
-					// Handle success
-					setAlertContent({
-						heading: "Thank you for contacting me.",
-						message: "I will respond to your message as soon as I can.",
-					});
-					setShowAlert(true);
-				},
-				(error) => {
-					// Handle error
-					setAlertContent({
-						heading: "Something went wrong.",
-						message: error.text,
-					});
-					setShowAlert(true);
-				}
-			);
-	};
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster - Figiel Kontakt</title>
-				<meta name="description" content="Kontakt" />
+				<title>
+					Kontaktieren Sie Fenster Figiel für professionelle Fenster- und
+					Türmontage
+				</title>
+				<meta
+					name="description"
+					content="Erfahren Sie mehr über Fenster Figiel, Ihren zuverlässigen Fensterbauer in Duisburg, Mönchengladbach und Krefeld. Wir bieten hochwertige polnische Fenster mit Montageservice sowie moderne Türen und Rollläden. Kontaktieren Sie uns für Alufenster von Kömmerling und PVC-Fenster direkt aus Polen. Wir sind Ihre Experten für Fenster- und Türmontage in der Nähe."
+				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
-			<Contact1 onSubmit={handleFormSubmit} />
+			<Contact1 />
 		</div>
 	);
 }

@@ -34,7 +34,7 @@ function Fenster() {
 						width={300}
 						height={300}
 						className="responsive-image shadow-lg "
-						alt="termoisolatie2"
+						alt="fenster1"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
@@ -57,7 +57,7 @@ function Fenster() {
 						width={300}
 						height={300}
 						className="responsive-image shadow-lg "
-						alt="termoisolatie2"
+						alt="fenster2"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
@@ -83,7 +83,7 @@ function Fenster() {
 						width={300}
 						height={300}
 						className="responsive-image  "
-						alt="binnenisolatie2"
+						alt="fenster3"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>

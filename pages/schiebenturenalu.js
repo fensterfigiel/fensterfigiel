@@ -19,7 +19,11 @@ function schiebenturenalu() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Figiel Schiebetüren ALU</title>
+				<title>Moderne Schiebetüren aus Aluminium - Fenster Figiel</title>
+				<meta
+					name="description"
+					content="Entdecken Sie die stilvolle Innovation mit unseren modernen ALU-Schiebetüren von Fenster Figiel. Unsere hochwertigen und maßgeschneiderten Schiebetüren aus Aluminium vereinen Funktionalität, Eleganz und Langlebigkeit. Bringen Sie mit unseren Schiebetüren frischen Wind in Ihr Zuhause und profitieren Sie von einem zeitgemäßen Design, das Ihre Räume in ein helles und einladendes Ambiente verwandelt. Kontaktieren Sie uns noch heute für eine individuelle Beratung und Montage in Duisburg, Mönchengladbach, Krefeld und Umgebung!"
+				/>
 
 				<meta name="robots" content="index, follow" />
 			</Head>

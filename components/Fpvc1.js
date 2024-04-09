@@ -87,7 +87,7 @@ function Fpvc1() {
 						width={400}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="pvcfenster1"
 					/>
 				</Col>
 				<Col lg={5} className="mx-auto my-2 ">

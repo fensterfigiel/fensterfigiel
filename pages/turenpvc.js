@@ -11,7 +11,11 @@ function turenpvc() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Figiel PVC Türen Krefeld Viersen </title>
+				<title>Fenster Figiel PVC Türen Krefeld Viersen Mönchengladbach </title>
+				<meta
+					name="description"
+					content="Willkommen bei Fenster Figiel! Unsere PVC-Türen sind nicht nur eine praktische Lösung, sondern auch eine stilvolle Ergänzung für Ihr Zuhause in Krefeld, Viersen und Mönchengladbach. Entdecken Sie unsere vielseitigen Designs, die nicht nur Ihr Zuhause schützen, sondern auch Ihren Lebensstil widerspiegeln. Lassen Sie sich von unserer Fachkenntnis und dem Engagement für Qualität überzeugen. Kontaktieren Sie uns noch heute und lassen Sie uns gemeinsam Ihre Wohnträume verwirklichen!"
+				/>
 
 				<meta name="robots" content="index, follow" />
 			</Head>

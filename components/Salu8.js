@@ -142,7 +142,7 @@ function Salu8() {
 						width={400}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="schiebeturenalu8"
 					/>
 				</Col>
 			</Row>

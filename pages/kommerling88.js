@@ -14,8 +14,11 @@ function kommerling88() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Figiel Kömmerling 88</title>
-
+				<title>Kömmerling 88 - Haustürsysteme von Fenster Figiel</title>
+				<meta
+					name="description"
+					content="Entdecken Sie die vielfältigen Haustürsysteme Kömmerling 88 von Fenster Figiel. Unsere hochmodernen Haustüren bieten zahlreiche Gestaltungsmöglichkeiten, technologische Innovationen und Sicherheitsmerkmale. Sie garantieren einen freundlichen Empfang mit höchster Sicherheit, Wärmedämmung und Dichtigkeit. Treffen Sie immer die richtige Entscheidung für Ihre Haustür mit Kömmerling 88!"
+				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Pvcturen1 />

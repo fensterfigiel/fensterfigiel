@@ -130,7 +130,7 @@ function Aufsatzrolladen4() {
 						width={400}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="aufsatzrolladen3"
 					/>
 				</Col>
 			</Row>

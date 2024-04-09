@@ -88,7 +88,7 @@ function Rstoren4() {
 						width={400}
 						height={400}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="raffstoren4"
 					/>
 				</Col>{" "}
 				<Col lg={5} className="mx-auto my-2 ">

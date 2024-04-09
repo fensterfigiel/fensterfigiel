@@ -14,14 +14,6 @@ import Falu7 from "../components/Falu7";
 import Falu8 from "../components/Falu8";
 import Falu9 from "../components/Falu9";
 import Falu10 from "../components/Falu10";
-import Falu11 from "../components/Falu11";
-import Falu12 from "../components/Falu12";
-import Falu13 from "../components/Falu13";
-import Falu14 from "../components/Falu14";
-import Falu15 from "../components/Falu15";
-import Falu16 from "../components/Falu16";
-import Falu17 from "../components/Falu17";
-import Falu18 from "../components/Falu18";
 
 function fensteralu() {
 	useEffect(() => {
@@ -36,8 +28,14 @@ function fensteralu() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Alu</title>
-
+				<title>
+					Aluminium Fenster von Fenster Figiel | Hochwertige Lösungen für Ihr
+					Zuhause
+				</title>
+				<meta
+					name="description"
+					content="Fenster Figiel bietet erstklassige Aluminium Fensterlösungen für Ihr Zuhause. Entdecken Sie unsere hochwertigen Produkte und professionelle Montagedienstleistungen in Duisburg, Mönchengladbach und Krefeld. Kontaktieren Sie uns noch heute!"
+				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Falu1 />

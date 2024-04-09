@@ -18,7 +18,7 @@ function schiebenturenpvc() {
 				</title>
 				<meta
 					name="description"
-					content="Entdecken Sie Schiebetüren aus PVC von Fenster Figiel - moderne und praktische Lösungen für Ihr Zuhause. Unsere PVC Schiebetüren bieten nicht nur ein zeitgemäßes Design, sondern auch eine hohe Wärmedämmung und Langlebigkeit. Erfahren Sie mehr über unsere vielseitigen Produkte und lassen Sie sich von Fenster Figiel beraten."
+					content="Entdecken Sie die Vielseitigkeit von PVC-Schiebetüren von Fenster Figiel - moderne und praktische Lösungen für Ihr Zuhause. Unsere Schiebetüren aus PVC vereinen zeitgemäßes Design mit hoher Wärmedämmung und Langlebigkeit. Lassen Sie sich von Fenster Figiel beraten und wählen Sie aus einer breiten Palette von PVC Schiebetüren, die Ihren Bedürfnissen entsprechen. Wir bieten professionelle Montage von Fenstern und Türen in Duisburg, Mönchengladbach und Krefeld. Als zuverlässiger Fensterbauer in Ihrer Nähe stehen wir Ihnen für die Montage von Polnischen Fenstern mit Montage zur Verfügung. Kaufen Sie Ihre PVC Fenster direkt bei uns und wählen Sie aus einer breiten Palette an modernen Türen aus Polen. Wir sind spezialisiert auf Fenster- und Türmontage in MG und bieten Ihnen die Top Fenster mit ALU Rollläden."
 				/>
 
 				<meta name="robots" content="index, follow" />

@@ -12,12 +12,11 @@ function lackiertefensterauspvc() {
 		<div className="">
 			<Head>
 				<title>
-					Fenster Figiel Lackierte PVC-Fenster für ein modernes : Fenster
-					Krefeld Ambiente
+					Lackierte Fenster aus PVC - Attraktive Alternative | Fenster Figiel
 				</title>
 				<meta
 					name="description"
-					content="Erleben Sie den Charme lackierter PVC-Fenster in Krefeld und entdecken Sie unsere Auswahl an hochwertigen Produkten."
+					content="Entdecken Sie lackierte Fenster aus PVC als attraktive Alternative zu herkömmlichen Holzfenstern. Sie vereinen die Vorteile von PVC, wie Langlebigkeit und Witterungsbeständigkeit, mit einer ästhetischen Lackierung, die das Erscheinungsbild verbessert. Wenn Sie nach einem zuverlässigen Fensterbauer in Duisburg, Mönchengladbach, Krefeld oder Umgebung suchen, sind Sie bei Fenster Figiel genau richtig. Wir bieten hochwertige Fenstermontage sowie eine breite Auswahl an modernen Türen aus Polen mit Montage. Kaufen Sie Alufenster von Kömmerling direkt bei uns und profitieren Sie von unserem erstklassigen Service!"
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>

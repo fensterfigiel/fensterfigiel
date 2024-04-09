@@ -130,7 +130,7 @@ function Fpvc2() {
 						width={400}
 						height={500}
 						className="responsive-image shadow-lg"
-						alt="termoisolatie3"
+						alt="pvcfenster2"
 					/>
 				</Col>
 			</Row>

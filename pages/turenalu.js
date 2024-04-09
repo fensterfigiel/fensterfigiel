@@ -16,6 +16,10 @@ function turenalu() {
 		<div className="">
 			<Head>
 				<title>Fenster Figiel ALU Türen Mönchengladbach Duisburg Viersen</title>
+				<meta
+					name="description"
+					content="Entdecken Sie bei Fenster Figiel hochwertige Aluminium Türen für Ihr Zuhause in Mönchengladbach, Duisburg und Viersen. Als renommierter Fensterbauer bieten wir maßgeschneiderte Lösungen für Ihre Bedürfnisse. Unsere ALU Türen vereinen modernes Design, Funktionalität und Langlebigkeit. Kontaktieren Sie uns noch heute für eine individuelle Beratung und Montage!"
+				/>
 
 				<meta name="robots" content="index, follow" />
 			</Head>

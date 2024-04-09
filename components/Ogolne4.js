@@ -129,7 +129,7 @@ function Ogolne4() {
 						width={600}
 						height={500}
 						className="responsive-image shadow-lg"
-						alt="bouw8"
+						alt="fensterbauer4"
 					/>
 				</Col>
 			</Row>

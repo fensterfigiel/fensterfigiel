@@ -7,7 +7,10 @@ function hausturen() {
 	return (
 		<div className="">
 			<Head>
-				<title>Haustüren Fenster Figiel </title>
+				<title>
+					Haustüren von Fenster Figiel - Hochwertige Eingangslösungen
+				</title>
+
 				<meta
 					name="description"
 					content="Haustüren Fenster Figiel – Die besten Lösungen für Ihr Zuhause. Wir bieten hochwertige Türen und Fenster, die Ihre Erwartungen erfüllen werden. Kontaktieren Sie uns noch heute!"

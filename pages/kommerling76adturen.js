@@ -9,8 +9,13 @@ function kommerling76adturen() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Figiel Kömmerling 76 AD</title>
-
+				<title>
+					Fenster Figiel | Kömmerling 76 AD - Hochwertige Fensterlösungen
+				</title>
+				<meta
+					name="description"
+					content="Entdecken Sie unsere hochwertigen Fensterlösungen mit dem Kömmerling 76 AD-Profil von Fenster Figiel. Vereinbaren Sie noch heute eine Beratung für maßgeschneiderte Fenster und professionelle Montage."
+				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
 

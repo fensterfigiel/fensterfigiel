@@ -121,7 +121,7 @@ function Talu4() {
 						width={400}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="aluprofmb86"
 					/>
 				</Col>
 			</Row>

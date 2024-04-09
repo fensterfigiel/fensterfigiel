@@ -87,7 +87,7 @@ function Salu6() {
 						width={500}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="schiebeturenalu6"
 					/>
 				</Col>
 				<Col lg={5} className="mx-auto my-2 ">

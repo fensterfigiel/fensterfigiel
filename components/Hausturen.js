@@ -30,7 +30,7 @@ function Hausturen() {
 						width={300}
 						height={300}
 						className="responsive-image shadow-lg "
-						alt="termoisolatie2"
+						alt="hausturen1"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
@@ -53,7 +53,7 @@ function Hausturen() {
 						width={300}
 						height={300}
 						className="responsive-image shadow-lg "
-						alt="termoisolatie2"
+						alt="hausturen2"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
@@ -76,7 +76,7 @@ function Hausturen() {
 						width={300}
 						height={300}
 						className="responsive-image  "
-						alt="binnenisolatie2"
+						alt="hausturen3"
 					/>{" "}
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>

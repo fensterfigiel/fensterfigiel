@@ -15,7 +15,11 @@ function dindecorpremium() {
 	return (
 		<div className="">
 			<Head>
-				<title> Fenster Figiel Dindecor Die Serie Premium</title>
+				<title> Fenster Figiel Dindecor Die Serie Premium Türfüllungen</title>
+				<meta
+					name="description"
+					content="Entdecken Sie die Dindecor Die Serie Premium von Fenster Figiel. Wir bieten hochwertige Fenster, Türen und Rollläden für Ihr Zuhause. Kontaktieren Sie uns für professionelle Montage in Duisburg, Mönchengladbach und Krefeld."
+				/>
 
 				<meta name="robots" content="index, follow" />
 			</Head>

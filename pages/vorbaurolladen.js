@@ -17,7 +17,14 @@ function vorbaurolladen() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Figiel Vorbaurolladen </title>
+				<title>
+					Vorbaurolladen - Innovative Lösungen von Fenster Figiel
+					Mönchengladbach
+				</title>
+				<meta
+					name="description"
+					content="Entdecken Sie die Vorteile von Vorbaurolladen mit Fenster Figiel. Unsere innovativen Lösungen bieten nicht nur effektiven Sonnen- und Sichtschutz, sondern auch eine verbesserte Energieeffizienz und Sicherheit für Ihr Zuhause. Mit maßgeschneiderten Designs und hochwertigen Materialien garantieren wir Ihnen höchste Qualität und Langlebigkeit. Erfahren Sie mehr über unsere Vorbaurolladen und lassen Sie sich von unseren Experten beraten!"
+				/>
 
 				<meta name="robots" content="index, follow" />
 			</Head>

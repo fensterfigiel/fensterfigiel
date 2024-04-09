@@ -135,7 +135,7 @@ function Schiebeturenpvc4() {
 						width={400}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="schiebeturenpvc4"
 					/>
 				</Col>
 			</Row>

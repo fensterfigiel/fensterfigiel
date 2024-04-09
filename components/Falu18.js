@@ -139,7 +139,7 @@ function Falu18() {
 						width={500}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="alufenster18"
 					/>
 				</Col>
 			</Row>

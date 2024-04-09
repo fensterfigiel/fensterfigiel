@@ -87,7 +87,7 @@ function Aufsatzrolladen2() {
 						width={400}
 						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="isolatie3"
+						alt="aufsatzrolladen2"
 					/>
 				</Col>
 				<Col lg={5} className="mx-auto my-2 ">

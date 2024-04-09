@@ -129,7 +129,7 @@ function Ogolne2() {
 						width={600}
 						height={500}
 						className="responsive-image shadow-lg"
-						alt="bouw3"
+						alt="fensterbauer1"
 					/>
 				</Col>
 			</Row>

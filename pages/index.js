@@ -17,10 +17,13 @@ export default function Home() {
 		<>
 			<Head>
 				<title>
-					Fenser Figiel - Profi für Fenster, Türen und Rollläden in
-					Mönchengladbach. Top Montage & Reparatur
+					Fenster Figiel - Ihr Experte für hochwertige Fenster, Türen und
+					Rollläden in Mönchengladbach | Top Montage & Reparatur
 				</title>
-				<meta name="description" content="Meta" />
+				<meta
+					name="description"
+					content="Entdecken Sie hochwertige Fenster, Türen und Rollläden von Fenster Figiel in Mönchengladbach. Wir bieten professionelle Montage und Reparatur. Kontaktieren Sie uns noch heute!"
+				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
 

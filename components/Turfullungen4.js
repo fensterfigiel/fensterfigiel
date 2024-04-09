@@ -98,7 +98,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen1"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 101</h3>
@@ -110,7 +110,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen2"
 					/>
 					<Row>
 						<h3 className="text-bold"> 103</h3>
@@ -122,7 +122,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen3"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 104</h3>
@@ -134,7 +134,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen4"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 102</h3>
@@ -149,7 +149,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen5"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 105</h3>
@@ -161,7 +161,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen6"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 108</h3>
@@ -173,7 +173,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 109</h3>
@@ -185,7 +185,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 110</h3>
@@ -200,7 +200,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 111</h3>
@@ -212,7 +212,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 112</h3>
@@ -224,7 +224,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 113</h3>
@@ -236,7 +236,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 114</h3>
@@ -251,7 +251,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 115</h3>
@@ -263,7 +263,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 116</h3>
@@ -275,7 +275,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 117</h3>
@@ -287,7 +287,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 118</h3>
@@ -302,7 +302,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 119</h3>
@@ -314,7 +314,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 120</h3>
@@ -326,7 +326,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 121</h3>
@@ -338,7 +338,7 @@ function Turfullungen4() {
 						width={200}
 						height={400}
 						className="responsive-image rounded shadow-lg hover"
-						alt="isolatie3"
+						alt="Türfüllungen"
 					/>{" "}
 					<Row>
 						<h3 className="text-bold"> 122</h3>

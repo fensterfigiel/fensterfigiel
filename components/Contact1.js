@@ -16,13 +16,6 @@ const Contact1 = ({ onSubmit }) => {
 	const handleChange = (e) =>
 		setFormData({ ...formData, [e.target.id]: e.target.value });
 
-	const sendEmail = (e) => {
-		e.preventDefault();
-		onSubmit(formData);
-		setFormSubmitted(true);
-		// Dodaj logikę do wysyłania maila z EmailJS tutaj
-	};
-
 	{
 		const handleCall = () => {
 			const phoneLink = document.createElement("a");
@@ -40,7 +33,12 @@ const Contact1 = ({ onSubmit }) => {
 			<Container className="bg-light text-dark" fluid>
 				<div className="py-5">
 					<Row className=" justify-content-center text-center align-items-center py-5">
-						<h1 className="py-3 text-bold">Kontakt</h1>
+						<h1 className="py-3 text-bold"> Kontakt</h1>{" "}
+						<h3 className="py-3 text-bold">
+							{" "}
+							Fenster Figiel - Ihr zuverlässiger Fensterbauer für professionelle
+							Montage
+						</h3>
 						<Col lg={5} md={8} sm={8} className="mx-auto my-3 ">
 							<Card
 								style={{ minWidth: "18rem" }}

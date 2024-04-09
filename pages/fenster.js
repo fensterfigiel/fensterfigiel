@@ -9,7 +9,10 @@ function fenster() {
 	return (
 		<div>
 			<Head>
-				<title>Fenster Figiel | Fensterbauer aus Mönchengladbach </title>
+				<title>
+					Fenster Figiel | Professionelle Fenster in Duisburg, Mönchengladbach
+					und Krefeld
+				</title>
 				<meta
 					name="description"
 					content="Fenster Figiel bietet professionelle Dienstleistungen für den Verkauf und die Montage hochwertiger Fenster, Türen und Rollläden in Mönchengladbach und Umgebung. Erfahren Sie mehr über unsere maßgeschneiderten Lösungen und unsere herausragende Handwerkskunst."

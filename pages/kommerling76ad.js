@@ -12,12 +12,14 @@ function kommerling76ad() {
 		<div className="">
 			<Head>
 				<title>
-					Fenster-Figiel Fensterbau in Mönchengladbach: Kömmerling 76 AD
+					Fenster Figiel Fensterbauer in Mönchengladbach: Kömmerling 76 AD aus
+					Polen
 				</title>
 				<meta
 					name="description"
-					content="Erfahren Sie mehr über unsere maßgeschneiderten Fensterlösungen in Mönchengladbach, darunter die beliebten Modelle Kömmerling 76 MD und Kömmerling 76 AD."
+					content="Erfahren Sie mehr über unsere maßgeschneiderten Fensterlösungen in Mönchengladbach, darunter die beliebten Modelle Kömmerling 76 MD und Kömmerling 76 AD. Kontaktieren Sie uns für eine professionelle Beratung und Montage von Fenstern und Türen!"
 				/>
+
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Fpvc7 /> <Fpvc2 />

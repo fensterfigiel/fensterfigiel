@@ -25,12 +25,12 @@ function fensterpvcmitalu() {
 		<div className="">
 			<Head>
 				<title>
-					PVC Fenster mit Aluschale - Innovative Fensterlösungen von Fenster
+					PVC Fenster mit Aluschale - Hochwertige Fensterlösungen von Fenster
 					Figiel
 				</title>
 				<meta
 					name="description"
-					content="Entdecken Sie PVC Fenster mit Aluschale von Fenster Figiel - innovative Fensterlösungen, die höchste Qualität und modernes Design vereinen. Unsere PVC Fenster mit Aluschale bieten herausragende Wärmedämmung und Langlebigkeit. Erfahren Sie mehr über unsere vielseitigen Produkte und lassen Sie sich von Fenster Figiel beraten."
+					content="Fenster Figiel bietet moderne Schiebetüren aus Aluminium für Ihr Zuhause an. Entdecken Sie unsere hochwertigen und maßgeschneiderten ALU-Schiebetüren, die Funktionalität, Stil und Langlebigkeit vereinen. Kontaktieren Sie uns für eine individuelle Beratung und Montage in Duisburg, Mönchengladbach, Krefeld und Umgebung!"
 				/>
 
 				<meta name="robots" content="index, follow" />

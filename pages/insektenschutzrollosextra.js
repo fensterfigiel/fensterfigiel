@@ -17,7 +17,13 @@ function insektenschutzrollosextra() {
 	return (
 		<div className="">
 			<Head>
-				<title> Fenster Figiel Insektenschutzrollos Extra</title>
+				<title>
+					Perfekter Insektenschutz mit Fenster Figiel Insektenschutzrollos Extra
+				</title>
+				<meta
+					name="description"
+					content="Finden Sie perfekten Insektenschutz mit unseren hochwertigen Insektenschutzrollos Extra von Fenster Figiel. Maßgeschneiderte Lösungen für Ihre Fenster und Türen. Vereinbaren Sie gleich einen Termin!"
+				/>
 
 				<meta name="robots" content="index, follow" />
 			</Head>
