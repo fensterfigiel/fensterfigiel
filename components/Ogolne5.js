@@ -93,15 +93,20 @@ function Ogolne5() {
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
 							<Card.Text className="text-bold">
-								Unser Sortiment an Haustüren aus PVC und Aluminium bietet Ihnen
-								nicht nur eine ästhetisch ansprechende Auswahl, sondern auch
-								robuste und langlebige Optionen für Ihren Eingangsbereich.
+								Entdecken Sie unser breites Sortiment an hochwertigen Haustüren
+								aus PVC und Aluminium bei Fenster Figiel.
 							</Card.Text>
 							<Card.Text>
-								Die Vielfalt der Türfüllungen, darunter Glas-, Holz- oder
+								Unsere Haustüren bieten nicht nur eine ästhetisch ansprechende
+								Auswahl, sondern auch robuste und langlebige Optionen für Ihren
+								Eingangsbereich.
+							</Card.Text>
+							<Card.Text>
+								Die Vielfalt der Türfüllungen, darunter Glas, Aluminium oder
 								Kunststoffelemente, ermöglicht es Ihnen, Ihren persönlichen Stil
 								und die architektonischen Anforderungen Ihres Hauses zu
-								erfüllen.
+								erfüllen. Wir sind Ihr Experte für Haustürenbau in
+								Mönchengladbach und Umgebung.
 							</Card.Text>
 							<Card.Text>
 								Unsere Haustüren sind in verschiedenen Designs und Farben
@@ -110,21 +115,24 @@ function Ogolne5() {
 								unsere PVC- und Aluminium-Haustüren auch eine ausgezeichnete
 								Wärmedämmung und Sicherheitseigenschaften, die den Komfort und
 								die Sicherheit Ihres Hauses verbessern.
-							</Card.Text>{" "}
+							</Card.Text>
 							<Card.Text>
 								Unsere erfahrenen Fachkräfte stehen Ihnen zur Verfügung, um Ihre
 								neue Haustür professionell zu montieren und nahtlos in Ihren
-								Eingangsbereich zu integrieren.
+								Eingangsbereich zu integrieren. Wir sind Ihre Haustürenexperten
+								in Mönchengladbach und Umgebung.
 							</Card.Text>
 							<Card.Text>
 								Verleihen Sie Ihrem Zuhause mit unseren hochwertigen Haustüren
 								den perfekten ersten Eindruck und steigern Sie gleichzeitig die
-								Sicherheit und Energieeffizienz.
+								Sicherheit und Energieeffizienz. Kontaktieren Sie uns noch heute
+								für eine individuelle Beratung.
 							</Card.Text>
-							<Card.Text></Card.Text>{" "}
 							<Row className="text-center align-items-center justify-content-center">
 								<Link href="hausturen">
-									<Button className="btn-primary  w-50">Haustüren </Button>
+									<Button className="btn-primary  w-50">
+										Entdecken Sie unsere Haustüren
+									</Button>
 								</Link>
 							</Row>
 						</Card.Body>

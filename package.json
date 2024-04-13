@@ -5,7 +5,9 @@
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
-		"start": "next start"
+		"start": "next start",
+		"postbuild": "next-sitemap --config next-sitemap.config.js",
+		"sitemap": "next-sitemap"
 	},
 	"dependencies": {
 		"@emailjs/browser": "^3.11.0",

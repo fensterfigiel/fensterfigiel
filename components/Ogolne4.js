@@ -87,12 +87,16 @@ function Ogolne4() {
 								Rollladen bieten nicht nur Ruhe, Intimität und Sicherheit,
 								sondern verleihen Ihrem Zuhause auch ein behagliches Ambiente,
 								indem sie Kälte, grelles Sonnenlicht und neugierige Blicke
-								abhalten.{" "}
+								abhalten.
+							</Card.Text>
+							<Card.Text className="text-bold">
+								Bei Fenster Figiel finden Sie hochwertige Rollladenlösungen in
+								Mönchengladbach und Umgebung.
 							</Card.Text>
 							<Card.Text>
-								Bei Fenster Figiel finden Sie Rollladen im bewährten und
-								anerkannten System EXTE, die mit hochwertigen Profilen mit
-								Kammernstruktur hergestellt werden.
+								Entdecken Sie bei uns Rollladen im bewährten und anerkannten
+								System EXTE, die mit hochwertigen Profilen mit Kammernstruktur
+								hergestellt werden.
 							</Card.Text>
 							<Card.Text>
 								Der Kasten ist mit einem Styroporeinsatz ausgestattet, der eine
@@ -104,7 +108,9 @@ function Ogolne4() {
 							<Card.Text>
 								Bei letzterem können Sie zwischen Schaltern oder einer
 								Fernbedienung wählen, die entweder auf oder unter Putz montiert
-								werden können.
+								werden können. Unsere erfahrenen Fensterbauer stehen Ihnen in
+								Mönchengladbach und Umgebung zur Verfügung, um Ihnen bei der
+								Installation Ihrer Rollladen zu helfen.
 							</Card.Text>
 							<Card.Text>
 								Zusätzliche Sperrbügel können angebracht werden, um das Anheben
@@ -113,7 +119,9 @@ function Ogolne4() {
 							</Card.Text>
 							<Row className="text-center align-items-center justify-content-center">
 								<Link href="rolladen">
-									<Button className="btn-primary  w-50">Rolladen </Button>
+									<Button className="btn-primary  w-50">
+										Entdecken Sie unsere Rolladen
+									</Button>
 								</Link>
 							</Row>
 						</Card.Body>

@@ -13,17 +13,20 @@ function Fenster() {
 		>
 			<Row className="text-center mt-2  pt-5">
 				<h1 className="text-bold text-uppercase">
-					Wir sind Fensterspezialisten
+					Wir sind Ihre Fensterbau Experten in Mönchengladbach
 				</h1>
 				<h5 className="py-1">
-					Wir sind Fensterspezialisten bei Fenster Figiel.
-				</h5>{" "}
+					Fenster Figiel - Ihr Partner für hochwertige Fensterlösungen.
+				</h5>
 				<h5>
-					{" "}
-					Mit langjähriger Erfahrung und Fachkompetenz bieten wir
-					maßgeschneiderte Lösungen für hochwertige Fensterprodukte und sind
-					bekannt für unsere herausragende Handwerkskunst und unser Engagement
-					für Kundenzufriedenheit.
+					Als Experten für Fensterbau bieten wir maßgeschneiderte Lösungen für
+					hochwertige Fensterprodukte und sind bekannt für unsere herausragende
+					Handwerkskunst und unser Engagement für Kundenzufriedenheit. Entdecken
+					Sie unsere breite Auswahl an Fensterlösungen, darunter PVC-Fenster,
+					Aluminiumfenster, moderne Fenster mit integrierten Rolläden und vieles
+					mehr. Unsere erfahrenen Fensterbauer stehen Ihnen zur Seite, um Ihre
+					individuellen Bedürfnisse zu erfüllen und Ihre Wohnträume Wirklichkeit
+					werden zu lassen.
 				</h5>
 			</Row>
 			<Row className="justify-content-center py-3  align-items-center">
@@ -42,10 +45,13 @@ function Fenster() {
 								PVC-Fenster - die smarte Wahl für Komfort und Umweltbewusstsein!
 								Genießen Sie ausgezeichnete Isolierung, einfache Pflege und
 								Langlebigkeit. Entdecken Sie unsere PVC-Fensterkollektion für
-								Ihr Zuhause!
+								Ihr Zuhause und profitieren Sie von unserer Erfahrung als
+								Fensterbauer in der Nähe von Mönchengladbach!
 							</Card.Text>
 							<Link href="fensterpvc">
-								<Button className="btn-primary btn-md">PVC</Button>
+								<Button className="btn-primary btn-md">
+									PVC Fenster entdecken
+								</Button>
 							</Link>
 						</Card.Body>{" "}
 					</Card>
@@ -66,11 +72,11 @@ function Fenster() {
 								Langlebigkeit, Stil und Energieeffizienz vereinen. Mit schlanken
 								Profilen und hochwertigen Materialien bieten sie eine moderne
 								Ästhetik für zeitgemäße Architektur. Investieren Sie jetzt in
-								die Zukunft Ihres Hauses!
+								die Zukunft Ihres Hauses mit Fenstern von Fenster Figiel!
 							</Card.Text>
 							<Link href="fensterpvcmitalu">
 								<Button className="btn-primary btn-md">
-									PVC mit aluschale
+									PVC Fenster mit Aluschale entdecken
 								</Button>
 							</Link>
 						</Card.Body>{" "}
@@ -91,10 +97,13 @@ function Fenster() {
 								Moderne Aluminiumfenster - Langlebigkeit, Stil und
 								Energieeffizienz vereint! Entdecken Sie unsere Auswahl an
 								schlanken Profilen und hochwertigen Materialien für zeitgemäße
-								Architektur. Jetzt informieren und investieren!
+								Architektur. Jetzt informieren und investieren Sie in
+								hochwertige Fensterlösungen von Fenster Figiel!
 							</Card.Text>
 							<Link href="fensteralu">
-								<Button className="btn-primary btn-md">ALU</Button>
+								<Button className="btn-primary btn-md">
+									Aluminium Fenster entdecken
+								</Button>
 							</Link>
 						</Card.Body>{" "}
 					</Card>

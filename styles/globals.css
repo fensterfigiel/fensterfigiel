@@ -144,6 +144,21 @@ a {
 	color: #ff0000; /* Kolor ikon */
 }
 
+.footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.carousel-container {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+
+	border-top: 1px solid #ddd; /* Dodatkowy styl dla obramowania górnego */
+	z-index: 1000; /* Ustawienie z-index, aby stopka była na wierzchu */
+}
+
 .particles-container {
 	position: absolute;
 	top: 0;

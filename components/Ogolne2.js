@@ -87,31 +87,38 @@ function Ogolne2() {
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
 							<Card.Text className="text-bold">
-								Fenster Figiel, ist spezialisiert auf die Bereitstellung einer
-								breiten Palette hochwertiger Fensterlösungen für Ihr Zuhause.
+								Fensterbauer in Mönchengladbach
+							</Card.Text>
+							<Card.Text className="text-bold">
+								Fenster Figiel - Ihr Experte für hochwertige Fensterlösungen.
 							</Card.Text>
 							<Card.Text>
-								Von maßgefertigten Fenstern aus verschiedenen Materialien bis
-								hin zu modernsten Energiesparoptionen bieten wir Ihnen eine
-								Vielzahl von Auswahlmöglichkeiten, um Ihre individuellen
-								Bedürfnisse und Vorlieben zu erfüllen.
+								Wir bieten maßgefertigte Fenster aus verschiedenen Materialien
+								wie Kunststoff und Aluminium sowie modernste
+								Energiesparoptionen, um Ihre individuellen Bedürfnisse zu
+								erfüllen.
 							</Card.Text>
 
 							<Card.Text>
-								Darüber hinaus bieten wir professionelle Montagedienstleistungen
-								an, um sicherzustellen, dass Ihre neuen Fenster von Fenster
-								Figiel fachgerecht installiert werden und optimal funktionieren.
+								Unsere professionellen Montagedienstleistungen gewährleisten
+								eine fachgerechte Installation Ihrer neuen Fenster für optimale
+								Leistung. Wir sind Ihr Fensterbauer in der Nähe, der Ihnen auch
+								bei Reparaturen zur Seite steht.
 							</Card.Text>
 							<Card.Text></Card.Text>
 							<Card.Text>
-								Mit unserem engagierten Team von Fachleuten streben wir danach,
-								nicht nur die Ästhetik Ihres Hauses zu verbessern, sondern auch
-								seine Energieeffizienz zu maximieren und Ihren Wohnkomfort zu
-								steigern.
+								Unser engagiertes Team von Fachleuten strebt danach, nicht nur
+								die Ästhetik Ihres Hauses zu verbessern, sondern auch seine
+								Energieeffizienz zu maximieren und Ihren Wohnkomfort zu
+								steigern. Wir sind stolz darauf, Roma Raffstoren und Rolladen
+								von höchster Qualität anzubieten, um Ihre Wohnräume zu
+								verschönern.
 							</Card.Text>
 							<Row className="text-center align-items-center justify-content-center">
 								<Link href="fenster">
-									<Button className="btn-primary w-50">Fenster</Button>
+									<Button className="btn-primary w-50">
+										Entdecken Sie unsere Fenster
+									</Button>
 								</Link>
 							</Row>
 						</Card.Body>{" "}

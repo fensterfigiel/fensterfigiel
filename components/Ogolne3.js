@@ -94,32 +94,38 @@ function Ogolne3() {
 						<Card.Body>
 							<Card.Text className="text-bold">
 								Entdecken Sie die Vielfalt unserer hochwertigen Schiebetüren aus
-								PVC und Aluminium, die nicht nur durch ihr ansprechendes Design,
-								sondern auch durch ihre Robustheit und Funktionalität
-								überzeugen.
+								PVC und Aluminium bei Fenster Figiel.
 							</Card.Text>
+							<Card.Text>
+								Unsere Schiebetüren überzeugen nicht nur durch ihr ansprechendes
+								Design, sondern auch durch ihre Robustheit und Funktionalität.
+							</Card.Text>
+
 							<Card.Text>
 								Ob modernes Ambiente oder klassischer Stil – unsere Schiebetüren
 								passen sich Ihren individuellen Vorstellungen an und schaffen
 								eine harmonische Atmosphäre in Ihrem Zuhause.
 							</Card.Text>
-
 							<Card.Text>
 								Ausgestattet mit modernster Technologie garantieren sie nicht
 								nur eine reibungslose Bedienung, sondern bieten auch ein
-								Höchstmaß an Sicherheit für Ihre Familie.
+								Höchstmaß an Sicherheit für Ihre Familie. Entdecken Sie bei uns
+								Schiebetüren mit integrierten Rolläden für zusätzlichen Komfort
+								und Sicherheit.
 							</Card.Text>
-							<Card.Text></Card.Text>
 							<Card.Text>
 								Unsere erfahrenen Fachkräfte stehen Ihnen von der Beratung über
 								die Montage bis hin zur Endkontrolle mit Rat und Tat zur Seite,
 								um sicherzustellen, dass Ihre neuen Schiebetüren perfekt sitzen
 								und Ihren Wohnraum optimal ergänzen. Vertrauen Sie auf unsere
-								Expertise und lassen Sie Ihre Wohnträume Wirklichkeit werden.
+								Expertise und lassen Sie Ihre Wohnträume mit Fenster Figiel
+								Wirklichkeit werden.
 							</Card.Text>
 							<Row className="text-center align-items-center justify-content-center">
 								<Link href="schiebeturen">
-									<Button className="btn-primary  w-50">Schiebetüren </Button>
+									<Button className="btn-primary  w-50">
+										Jetzt Schiebetüren entdecken
+									</Button>
 								</Link>
 							</Row>
 						</Card.Body>{" "}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://fensterfigiel.de
+
+# Sitemaps
+Sitemap: https://fensterfigiel.de/sitemap.xml
