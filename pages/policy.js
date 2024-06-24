@@ -19,7 +19,8 @@ function Policy() {
 				<Col lg={3}>
 					<h3>Kontakt und Impressum</h3>
 					<p>
-						Mustername Alexz Muster <br />
+						Alexy Figiel
+						<br />
 						Tel: 0176 20614741 <br />
 						Hamerhütte 13, MG
 					</p>
