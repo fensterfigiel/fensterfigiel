@@ -85,7 +85,7 @@ function Ogolne1() {
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
 							<h1 className="text-bold text-center">
-								Herzlich Willkommen bei Fenster-Figiel
+								Herzlich Willkommen bei Fenster Figiel
 							</h1>
 							<Card.Text>
 								Hier finden Sie viele Informationen über unser Produkt, den
@@ -95,13 +95,13 @@ function Ogolne1() {
 								Garantieansprüchen.
 							</Card.Text>
 							<Card.Text className="text-bold">
-								Wir liefern und montieren Fenster und Schiebetüren von
-								Kömmerling (PVC oder PVC Aluschallen), mit elektrischen
+								Wir liefern und montieren Fenster und Schiebetüren von Schüco
+								und Kömmerling (PVC oder mit PVC Aluschallen), mit elektrischen
 								Aufsatzrollläden /Vorbaurollläden oder mechanischen Rollläden +
 								Hauseingangstüren in allen Varianten.
 							</Card.Text>
 							<Card.Text>
-								Unsere Orginal Kömmerling Bauelemente werden in der Firma
+								Unsere Schüco und Kömmerling Bauelemente werden in der Firma
 								Okno-pol in Polen hergestellt und direkt aus dem Werk der Fa.
 								Okno-pol an unsere Kunden ausgeliefert – ohne Zwischenlagerung.
 								Unsere Montagefirma aus Mönchengladbach (3 poln. Mitarbeiter)

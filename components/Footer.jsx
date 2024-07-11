@@ -127,7 +127,7 @@ const Footer = () => {
 				</Col>
 				<Col>
 					<h6 className="text-black">
-						2023 Fenster Figiel Alle Rechte vorbehalten
+						2024 Fenster Figiel Alle Rechte vorbehalten
 					</h6>
 				</Col>
 			</Row>
