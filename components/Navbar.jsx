@@ -86,7 +86,17 @@ const NavbarComp = ({ toggleTheme }) => {
 								<NavDropdown.Item as={Link} href="/fensterpvc" className="my-1">
 									<span className="text-bold"> PVC Fenster</span>
 								</NavDropdown.Item>
-								<NavDropdown.Divider />
+								<NavDropdown.Divider />{" "}
+								<NavDropdown.Item as={Link} href="schucoliving82md">
+									<span className="text-bold">Schüco Living 82 MD</span>{" "}
+									<Image
+										src="/assets/new.png"
+										alt="logo"
+										width={70}
+										height={30}
+										className="rounded"
+									/>
+								</NavDropdown.Item>{" "}
 								<NavDropdown.Item as={Link} href="kommerling88md">
 									<span className="text-bold">Kömmerling 88 MD</span>
 								</NavDropdown.Item>{" "}

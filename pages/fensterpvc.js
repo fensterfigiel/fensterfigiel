@@ -13,7 +13,8 @@ import Faqfenster from "../components/Faqfenster";
 import Fpvc6 from "../components/Fpvc6";
 import Fpvc7 from "../components/Fpvc7";
 import Fpvc8 from "../components/Fpvc8";
-
+import Schuc1 from "../components/Schuc1";
+import Schuc2 from "../components/Schuc2";
 function fensterpvc() {
 	return (
 		<div className="">
@@ -30,6 +31,9 @@ function fensterpvc() {
 
 				<meta name="robots" content="index, follow" />
 			</Head>
+
+			<Schuc1 />
+			<Schuc2 />
 			<Fpvc6 />
 			<Fpvc1 />
 			<Fpvc7 />

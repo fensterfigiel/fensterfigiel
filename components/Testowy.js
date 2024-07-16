@@ -84,9 +84,9 @@ function Testowy() {
 								<Link href="fenster" className="style-none">
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5 text-center">
 										<h4 className="mobile-text">
-											Günstige PVC-Fenster aus Kömmerlingprofilen in allen
-											Varianten und Farben, auch mit Alu-Vorsatzschalen oder
-											lackiert.
+											Günstige PVC-Fenster Schüco oder Kömmerling in allen
+											Varianten und Farben, mit Renolitfolien, Aluvorsatzschalen
+											oder lackiert.
 										</h4>
 										<Button>FENSTER</Button>
 									</Carousel.Caption>{" "}
@@ -110,9 +110,9 @@ function Testowy() {
 									{" "}
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 										<h4 className="mobile-text">
-											Balkontüren, Terassentüren- anlagen als HSK-T und HS-T.
-											Hohe Qualität zu niedrigen Preisen, direkt von einem der
-											größten Kömmerling Hersteller in Polen.
+											Hebeschiebetüren bzw. Parallelkippschiebetüren von Schüco
+											oder Kömmerling direkt von einem der groößten Hersteller
+											in Polen.
 										</h4>
 
 										<Button>SCHIEBETÜREN</Button>
@@ -137,8 +137,9 @@ function Testowy() {
 									{" "}
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 										<h4 className="mobile-text">
-											Wir liefern und montieren Kömmerling Fenster, Balkontüren,
-											Schiebetüren und Rollladen.
+											Wir liefern und montieren Schüco oder Kömmerling Fenster
+											mit elektrischen oder mechanischen ALU Aufsatzrolläden
+											bzw. Vorbaurolläden.
 										</h4>
 
 										<Button>ROLLADEN</Button>

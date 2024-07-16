@@ -8,7 +8,7 @@ import Link from "next/link";
 import Image from "next/image";
 import imageUrlBuilder from "@sanity/image-url";
 
-function Fpvc6() {
+function Schuc1() {
 	const [windowWidth, setWindowWidth] = useState(0);
 	useEffect(() => {
 		const handleResize = () => {
@@ -79,7 +79,7 @@ function Fpvc6() {
 			fluid
 			className=" bg-dark mt-5 text-dark py-5 align-items-center justify-content-center"
 			style={{
-				backgroundImage: `url('/assets/falu9.png')`,
+				backgroundImage: `url('/assets/Schuco1.png')`,
 				backgroundSize: "cover",
 				backgroundPosition: "center",
 			}}
@@ -88,13 +88,22 @@ function Fpvc6() {
 				<Col lg={8} className="mx-auto my-2">
 					<Card className="border-0 bg-transparent text-white ">
 						<Card.Body>
-							<h1 className="text-bold">Kömmerling 88 Mitteldichtung</h1>
+							<h1 className="text-bold">
+								Schüco LivIng{" "}
+								<Image
+									src="/assets/new.png"
+									width={100}
+									height={50}
+									className="rounded shadow-lg"
+									alt="schiebeturenalu1"
+								/>
+							</h1>
 
 							<h1>
-								Das Kömmerling 88 ist ein hochwertiges PVC-Fenstersystem, das
-								für seine ausgezeichnete Energieeffizienz, Langlebigkeit und
-								vielseitiges Design bekannt ist, was es zu einer beliebten Wahl
-								für moderne Bauvorhaben macht.
+								Das Schüco LivIng 82 MD Fenstersystem nutzt die
+								Twin-System-Technologie für einfache Montage und hohe Sicherheit
+								mit stahlverstärkten Profilen für ausgezeichnete
+								Energieeffizienz und flexible Gestaltungsmöglichkeiten.
 							</h1>
 						</Card.Body>
 					</Card>
@@ -104,4 +113,4 @@ function Fpvc6() {
 	);
 }
 
-export default Fpvc6;
+export default Schuc1;
