@@ -8,9 +8,8 @@ import { MdDoubleArrow } from "react-icons/md";
 
 import Image from "next/image";
 import imageUrlBuilder from "@sanity/image-url";
-import Insektenschutz1 from "./Insektenschutz1";
 
-function Rstoren3() {
+function Schucoliving2() {
 	const [windowWidth, setWindowWidth] = useState(0);
 	useEffect(() => {
 		const handleResize = () => {
@@ -81,53 +80,52 @@ function Rstoren3() {
 			fluid
 			className="mt-5 py-5 align-items-center bg-light text-dark justify-content-center "
 		>
-			<Row className="justify-content-center  align-items-center">
-				<Col lg={5} className="mx-auto my-2 ">
-					<Card className="border-0 bg-transparent ">
+			<Row className="justify-content-center align-items-center">
+				<Col lg={5} className="mx-auto my-2">
+					<Card className="border-0 bg-transparent">
 						<Card.Body>
 							<h1 className="text-bold">
-								Raffstoren im Unterputzsystem SkyFlow SZF/BX
+								Schüco LivIng - Die neue Systemgeneration
 							</h1>
 							<Card.Text>
-								Die Unterputz-Version BX der Raffstoren wurde speziell
-								entwickelt, um eine einfache und zeitsparende Montage in neuen
-								Gebäuden zu ermöglichen.
+								Das Türsystem Schüco LivIng überzeugt durch einfache und
+								flexible Fertigung sowie Montage. Es erfüllt höchste Ansprüche
+								an Komfort und Sicherheit und bietet eine große Vielfalt bei
+								Gestaltung und Ausführung.
+							</Card.Text>
+							<Card.Text>
+								Mit einer Bautiefe von 82 mm und einem innovativen
+								7-Kammer-System erreicht es hervorragende Wärmedämmwerte. Es ist
+								das erste Türsystem mit schweißbarer EPDM-Dichtung für erhöhte
+								Dichtwirkung und ein optisch ansprechendes Eckenbild.
+							</Card.Text>
+							<Card.Text>
+								Schüco LivIng bietet viele Varianten an Anschluss- und
+								Zusatzprofilen für verschiedene Bauprojekte. Zur farblichen
+								Gestaltung stehen das PVC-Foliensortiment Schüco UnlimitedFinish
+								und Schüco TopAlu zur Verfügung.
+							</Card.Text>
+							<Card.Text>
+								Weiße Profile kommen mit silbergrauen Dichtungen, folierte
+								Profile mit schwarzen Dichtungen. Das System kann mit Einsatz-
+								oder flügelüberdeckenden Türfüllungen ausgestattet werden.
 							</Card.Text>
 							<Card.Text className="text-bold">
-								Der Schutzkasten, hergestellt aus robustem rollgeformtem
-								Aluminium, bildet dabei das Kernstück des Systems.
-							</Card.Text>
-							<Card.Text>
-								Dieser Kasten ist vielseitig einsetzbar und kann optional mit
-								einem beidseitigen Putzträger ausgestattet werden, was eine
-								nahtlose Integration in die Gebäudefassade ermöglicht.
-							</Card.Text>
-							<Card.Text className="text-bold">
-								Darüber hinaus verfügt das System über speziell angepasste
-								Führungsschienen in zwei verschiedenen Größen, die eine einfache
-								und unkomplizierte Montage gewährleisten.
-							</Card.Text>
-							<Card.Text>
-								Diese Führungsschienen sind so konzipiert, dass sie sich optimal
-								in das Gesamtdesign des Gebäudes einfügen. Die maximale Größe
-								der Raffstoren beträgt 4500 × 4000 mm, was eine maximale Fläche
-								von bis zu 18 m² abdeckt.
-							</Card.Text>
-							<Card.Text>
-								Dieses System bietet somit eine ideale Lösung für moderne
-								Gebäudearchitekturen, die Wert auf eine ästhetische Integration
-								und effiziente Funktionalität legen.
+								Vorteile: Geringere Lagerhaltungskosten, weniger Bestellaufwand
+								durch reduzierte Teilevielfalt, schweißbare
+								EPDM-Funktionsdichtungen, und eine speziell patentierte Technik
+								für die Verschweißung der Profile.
 							</Card.Text>
 						</Card.Body>
 					</Card>
-				</Col>{" "}
-				<Col lg={5} className="mx-auto my-2 text-center ">
+				</Col>
+				<Col lg={5} className="mx-auto my-2 text-center">
 					<Image
-						src="/assets/raffstoren3.png"
+						src="/assets/image003.jpg"
 						width={500}
-						height={400}
+						height={500}
 						className="responsive-image rounded shadow-lg"
-						alt="raffstoren3"
+						alt="Schüco LivIng"
 					/>
 				</Col>
 			</Row>
@@ -135,4 +133,4 @@ function Rstoren3() {
 	);
 }
 
-export default Rstoren3;
+export default Schucoliving2;

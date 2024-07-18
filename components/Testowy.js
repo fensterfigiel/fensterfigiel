@@ -81,7 +81,7 @@ function Testowy() {
 										objectFit="cover"
 									/>
 								</div>
-								<Link href="fenster" className="style-none">
+								<Link href="#fenster" className="style-none">
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5 text-center">
 										<h4 className="mobile-text">
 											Günstige PVC-Fenster Schüco oder Kömmerling in allen
@@ -106,7 +106,7 @@ function Testowy() {
 									/>
 								</div>
 
-								<Link href="schiebeturen" className="">
+								<Link href="#schiebeturen" className="">
 									{" "}
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 										<h4 className="mobile-text">
@@ -133,7 +133,7 @@ function Testowy() {
 									/>
 								</div>
 
-								<Link href="rolladen" className="">
+								<Link href="#rolladen" className="">
 									{" "}
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 										<h4 className="mobile-text">
@@ -166,7 +166,7 @@ function Testowy() {
 										Designs und Farben. Entdecken Sie unsere vielfältige Auswahl
 										und wählen Sie die perfekte Haustür für Ihr Zuhause.
 									</h4>
-									<Link href="hausturen" className="">
+									<Link href="#hausturen" className="">
 										<Button>HAUSTÜREN</Button>
 									</Link>
 								</Carousel.Caption>

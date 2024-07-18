@@ -6,6 +6,8 @@ import Pvcturen1 from "../components/Pvcturen1";
 import Pvcturen2 from "../components/Pvcturen2";
 import Pvcturen3 from "../components/Pvcturen3";
 import Pvcturen4 from "../components/Pvcturen4";
+import Schucoliving1 from "../components/Schucoliving1";
+import Schucoliving2 from "../components/Schucoliving2";
 
 function turenpvc() {
 	return (
@@ -19,6 +21,8 @@ function turenpvc() {
 
 				<meta name="robots" content="index, follow" />
 			</Head>
+			<Schucoliving1 />
+			<Schucoliving2 />
 			<Pvcturen1 />
 			<Pvcturen2 />
 			<Pvcturen3 />

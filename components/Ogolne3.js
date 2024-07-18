@@ -1,5 +1,12 @@
 import React, { useEffect, useState } from "react";
-import { Container, Row, Col, Card, Button } from "react-bootstrap";
+import {
+	Container,
+	Row,
+	Col,
+	Card,
+	Button,
+	ButtonGroup,
+} from "react-bootstrap";
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
@@ -75,64 +82,78 @@ function Ogolne3() {
 	}, [inView, controls, animateIn, animateOut]);
 
 	return (
-		<Container
-			fluid
-			className="d-flex py-3 bg-light text-dark align-items-center justify-content-center"
-		>
-			<Row className="justify-content-center  align-items-center">
-				<Col lg={5} className="mx-auto my-2 text-center ">
-					<Image
-						src="/assets/schiebeturen-1.png"
-						width={600}
-						height={500}
-						className="responsive-image shadow-lg"
-						alt="fensterbauer2"
-					/>
-				</Col>{" "}
-				<Col lg={5} className="mx-auto my-2 ">
-					<Card className="border-0 bg-transparent ">
-						<Card.Body>
-							<Card.Text className="text-bold">
-								Entdecken Sie die Vielfalt unserer hochwertigen Schiebetüren aus
-								PVC und Aluminium bei Fenster Figiel.
-							</Card.Text>
-							<Card.Text>
-								Unsere Schiebetüren überzeugen nicht nur durch ihr ansprechendes
-								Design, sondern auch durch ihre Robustheit und Funktionalität.
-							</Card.Text>
+		<div id="schiebeturen" className="pt-5">
+			{" "}
+			<Container
+				fluid
+				className="d-flex py-3 bg-light text-dark align-items-center justify-content-center"
+			>
+				<Row className="justify-content-center  align-items-center">
+					<Col lg={5} className="mx-auto my-2 text-center ">
+						<Image
+							src="/assets/schiebeturen-1.png"
+							width={600}
+							height={500}
+							className="responsive-image shadow-lg"
+							alt="fensterbauer2"
+						/>
+					</Col>{" "}
+					<Col lg={5} className="mx-auto my-2 ">
+						<Card className="border-0 bg-transparent ">
+							<Card.Body>
+								<Card.Text className="text-bold">
+									Entdecken Sie die Vielfalt unserer hochwertigen Schiebetüren
+									aus PVC und Aluminium bei Fenster Figiel.
+								</Card.Text>
+								<Card.Text>
+									Unsere Schiebetüren überzeugen nicht nur durch ihr
+									ansprechendes Design, sondern auch durch ihre Robustheit und
+									Funktionalität.
+								</Card.Text>
 
-							<Card.Text>
-								Ob modernes Ambiente oder klassischer Stil – unsere Schiebetüren
-								passen sich Ihren individuellen Vorstellungen an und schaffen
-								eine harmonische Atmosphäre in Ihrem Zuhause.
-							</Card.Text>
-							<Card.Text>
-								Ausgestattet mit modernster Technologie garantieren sie nicht
-								nur eine reibungslose Bedienung, sondern bieten auch ein
-								Höchstmaß an Sicherheit für Ihre Familie. Entdecken Sie bei uns
-								Schiebetüren mit integrierten Rolläden für zusätzlichen Komfort
-								und Sicherheit.
-							</Card.Text>
-							<Card.Text>
-								Unsere erfahrenen Fachkräfte stehen Ihnen von der Beratung über
-								die Montage bis hin zur Endkontrolle mit Rat und Tat zur Seite,
-								um sicherzustellen, dass Ihre neuen Schiebetüren perfekt sitzen
-								und Ihren Wohnraum optimal ergänzen. Vertrauen Sie auf unsere
-								Expertise und lassen Sie Ihre Wohnträume mit Fenster Figiel
-								Wirklichkeit werden.
-							</Card.Text>
-							<Row className="text-center align-items-center justify-content-center">
-								<Link href="schiebeturen">
-									<Button className="btn-primary  w-50">
-										Jetzt Schiebetüren entdecken
-									</Button>
-								</Link>
-							</Row>
-						</Card.Body>{" "}
-					</Card>
-				</Col>
-			</Row>
-		</Container>
+								<Card.Text>
+									Ob modernes Ambiente oder klassischer Stil – unsere
+									Schiebetüren passen sich Ihren individuellen Vorstellungen an
+									und schaffen eine harmonische Atmosphäre in Ihrem Zuhause.
+								</Card.Text>
+								<Card.Text>
+									Ausgestattet mit modernster Technologie garantieren sie nicht
+									nur eine reibungslose Bedienung, sondern bieten auch ein
+									Höchstmaß an Sicherheit für Ihre Familie. Entdecken Sie bei
+									uns Schiebetüren mit integrierten Rolläden für zusätzlichen
+									Komfort und Sicherheit.
+								</Card.Text>
+								<Card.Text>
+									Unsere erfahrenen Fachkräfte stehen Ihnen von der Beratung
+									über die Montage bis hin zur Endkontrolle mit Rat und Tat zur
+									Seite, um sicherzustellen, dass Ihre neuen Schiebetüren
+									perfekt sitzen und Ihren Wohnraum optimal ergänzen. Vertrauen
+									Sie auf unsere Expertise und lassen Sie Ihre Wohnträume mit
+									Fenster Figiel Wirklichkeit werden.
+								</Card.Text>
+							</Card.Body>
+							<ButtonGroup className="align-items-center">
+								{" "}
+								<Button
+									as={Link}
+									href="schiebenturenpvc"
+									className="btn-primary  m-2"
+								>
+									Schiebetüren PVC
+								</Button>
+								<Button
+									as={Link}
+									href="schiebenturenalu"
+									className="btn-primary  m-2"
+								>
+									Schiebetüren Alu
+								</Button>
+							</ButtonGroup>
+						</Card>
+					</Col>
+				</Row>
+			</Container>
+		</div>
 	);
 }
 

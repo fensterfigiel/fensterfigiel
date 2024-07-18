@@ -8,7 +8,7 @@ import Link from "next/link";
 import Image from "next/image";
 import imageUrlBuilder from "@sanity/image-url";
 
-function Salu1() {
+function Schucolivingslide1() {
 	const [windowWidth, setWindowWidth] = useState(0);
 	useEffect(() => {
 		const handleResize = () => {
@@ -79,7 +79,7 @@ function Salu1() {
 			fluid
 			className=" bg-dark mt-5 text-dark py-5 align-items-center justify-content-center"
 			style={{
-				backgroundImage: `url('/assets/turen24.png')`,
+				backgroundImage: `url('/assets/schucolivingslide1.png')`,
 				backgroundSize: "cover",
 				backgroundPosition: "center",
 			}}
@@ -88,14 +88,21 @@ function Salu1() {
 				<Col lg={8} className="mx-auto my-2">
 					<Card className="border-0 bg-transparent text-white ">
 						<Card.Body>
-							<h1 className="text-bold">Aliplast Ultraglide</h1>
-
-							<h1>
-								Der ULTRAGLIDE-System bietet hochisolierende Schiebe- und
-								Hebeschiebetürkonstruktionen, die den neuesten Standards
-								entsprechen. Es ermöglicht die Gestaltung von großen beweglichen
-								Flügeln und bietet verschiedene Kombinationsmöglichkeiten, ideal
-								für den Wohnungsbau und den öffentlichen Bereich.
+							<h1 className="text-bold">
+								Schüco Livingslide Innovatives Hebe Türsystem
+								<Image
+									src="/assets/new.png"
+									width={100}
+									height={50}
+									className="rounded shadow-lg"
+									alt="schiebeturenalu1"
+								/>
+							</h1>
+							<h1 className="">
+								Schüco LivIngSlide bietet maximale Wohnqualität durch
+								lichtdurchflutete Räume und nahtlose Übergänge nach draußen,
+								ideal für großzügige Raumkonzepte mit leicht zu bedienenden
+								Hebeschiebetüren in verschiedenen Ausführungen und Farben.
 							</h1>
 						</Card.Body>
 					</Card>
@@ -105,4 +112,4 @@ function Salu1() {
 	);
 }
 
-export default Salu1;
+export default Schucolivingslide1;

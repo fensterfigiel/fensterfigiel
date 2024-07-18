@@ -160,6 +160,16 @@ const NavbarComp = ({ toggleTheme }) => {
 									<span className="text-bold">PVC Schiebetüren </span>
 								</NavDropdown.Item>
 								<NavDropdown.Divider />
+								<NavDropdown.Item as={Link} href="schucolivingslide">
+									<span className="text-bold">Schüco LivIngslide</span>{" "}
+									<Image
+										src="/assets/new.png"
+										alt="logo"
+										width={70}
+										height={30}
+										className="rounded"
+									/>
+								</NavDropdown.Item>{" "}
 								<NavDropdown.Item as={Link} href="kommerlingpremidoor76">
 									<span className="text-bold">Kömmerling PremiDoor 76</span>
 								</NavDropdown.Item>{" "}
@@ -292,6 +302,16 @@ const NavbarComp = ({ toggleTheme }) => {
 									<span className="text-bold">PVC Türen </span>
 								</NavDropdown.Item>
 								<NavDropdown.Divider />
+								<NavDropdown.Item as={Link} href="schucolivingturen">
+									<span className="text-bold">Schüco LivIng</span>{" "}
+									<Image
+										src="/assets/new.png"
+										alt="logo"
+										width={70}
+										height={30}
+										className="rounded"
+									/>
+								</NavDropdown.Item>{" "}
 								<NavDropdown.Item as={Link} href="kommerling88">
 									<span className="text-bold">Kömmerling 88</span>
 								</NavDropdown.Item>{" "}

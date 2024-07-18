@@ -43,7 +43,7 @@ const Header10 = () => {
 									+
 									<CountUp
 										key={resetKey}
-										start={400}
+										start={382}
 										end={528}
 										duration={7}
 										isCounting={true}
@@ -65,7 +65,7 @@ const Header10 = () => {
 									+
 									<CountUp
 										key={resetKey}
-										start={300}
+										start={311}
 										end={379}
 										duration={7}
 										isCounting={true}

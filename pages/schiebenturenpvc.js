@@ -8,7 +8,8 @@ import Schiebeturenpvc2 from "../components/Schiebeturenpvc2";
 import Schiebeturenpvc3 from "../components/Schiebeturenpvc3";
 import Schiebeturenpvc4 from "../components/Schiebeturenpvc4";
 import SchiebeturenFaq from "../components/SchiebeturenFaq";
-
+import Schucolivingslide1 from "../components/Schucolivingslide1";
+import Schucolivingslide2 from "../components/Schucolivingslide2";
 function schiebenturenpvc() {
 	return (
 		<div className="">
@@ -23,6 +24,8 @@ function schiebenturenpvc() {
 
 				<meta name="robots" content="index, follow" />
 			</Head>
+			<Schucolivingslide1 />
+			<Schucolivingslide2 />
 			<Schiebeturenpvc1 />
 			<Schiebeturenpvc2 />
 			<Schiebeturenpvc3 />

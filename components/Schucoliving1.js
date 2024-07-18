@@ -8,7 +8,7 @@ import Link from "next/link";
 import Image from "next/image";
 import imageUrlBuilder from "@sanity/image-url";
 
-function Salu1() {
+function Schucoliving1() {
 	const [windowWidth, setWindowWidth] = useState(0);
 	useEffect(() => {
 		const handleResize = () => {
@@ -79,7 +79,7 @@ function Salu1() {
 			fluid
 			className=" bg-dark mt-5 text-dark py-5 align-items-center justify-content-center"
 			style={{
-				backgroundImage: `url('/assets/turen24.png')`,
+				backgroundImage: `url('/assets/schuco2.png')`,
 				backgroundSize: "cover",
 				backgroundPosition: "center",
 			}}
@@ -88,14 +88,22 @@ function Salu1() {
 				<Col lg={8} className="mx-auto my-2">
 					<Card className="border-0 bg-transparent text-white ">
 						<Card.Body>
-							<h1 className="text-bold">Aliplast Ultraglide</h1>
-
-							<h1>
-								Der ULTRAGLIDE-System bietet hochisolierende Schiebe- und
-								Hebeschiebetürkonstruktionen, die den neuesten Standards
-								entsprechen. Es ermöglicht die Gestaltung von großen beweglichen
-								Flügeln und bietet verschiedene Kombinationsmöglichkeiten, ideal
-								für den Wohnungsbau und den öffentlichen Bereich.
+							<h1 className="text-bold">
+								Schüco LivIng - Innovatives Türsystem{" "}
+								<Image
+									src="/assets/new.png"
+									width={100}
+									height={50}
+									className="rounded shadow-lg"
+									alt="schiebeturenalu1"
+								/>
+							</h1>
+							<h1 className="">
+								Das Schüco LivIng Türsystem ermöglicht einfache Fertigung und
+								Montage. Mit 82 mm Bautiefe und 7-Kammer-System bietet es
+								hervorragende Wärmedämmung. Es erfüllt hohe Ansprüche an Komfort
+								und Sicherheit. Die schweißbare EPDM-Dichtung sorgt für optimale
+								Dichtwirkung. Ideal für Wohn- und Objektbau.
 							</h1>
 						</Card.Body>
 					</Card>
@@ -105,4 +113,4 @@ function Salu1() {
 	);
 }
 
-export default Salu1;
+export default Schucoliving1;
