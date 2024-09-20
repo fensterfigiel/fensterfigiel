@@ -3,7 +3,6 @@ import { PageTransition } from "next-page-transitions";
 import "../styles/globals.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Layout from "/components/Layout";
-
 import { useRouter } from "next/router";
 
 function App(props) {

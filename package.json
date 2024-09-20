@@ -4,13 +4,13 @@
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
-		"build": "next build ",
+		"build": "next build",
 		"start": "next start",
 		"postbuild": "next-sitemap --config next-sitemap.config.js",
-		"sitemap": "next-sitemap",
-		"pages:build": "next build && next-sitemap"
+		"sitemap": "next-sitemap"
 	},
 	"dependencies": {
+		"@cloudflare/next-on-pages": "^1.13.2",
 		"bootstrap": "^5.3.3",
 		"cookies-next": "^2.1.1",
 		"dotenv": "^16.0.3",
