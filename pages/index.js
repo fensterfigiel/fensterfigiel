@@ -13,6 +13,7 @@ import Ogolne5 from "../components/Ogolne5";
 
 export default function Home() {
 	const { theme } = useTheme();
+
 	return (
 		<>
 			<Head>

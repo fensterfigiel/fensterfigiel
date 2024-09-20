@@ -1,14 +1,20 @@
-import React from "react";
-import Navbar from "./Navbar";
-import emailjs from "@emailjs/browser";
-import { init } from "@emailjs/browser";
+import dynamic from "next/dynamic";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { useState, useEffect } from "react";
 import { Poppins } from "next/font/google";
 import CookieConsent from "./CookieConsent";
 
-import Footer from "./Footer";
-import Footer2 from "./Footer2";
+const Navbar = dynamic(() => import("./Navbar"), {
+	ssr: false,
+	loading: () => <div>Loading...</div>,
+});
+const Footer = dynamic(() => import("./Footer"), {
+	ssr: false,
+	loading: () => <div>Loading...</div>,
+});
+const Footer2 = dynamic(() => import("./Footer2"), {
+	ssr: false,
+	loading: () => <div>Loading...</div>,
+});
 
 const poppins = Poppins({
 	weight: ["400", "700"],
@@ -25,7 +31,6 @@ const Layout = ({ children, pageProps }) => {
 				</header>
 				<main className="main-container">{children}</main>
 				<footer>
-					{/* 	<ContactForm {...pageProps} /> */}
 					<Footer />
 					<Footer2 />
 				</footer>
@@ -33,4 +38,5 @@ const Layout = ({ children, pageProps }) => {
 		</div>
 	);
 };
+
 export default Layout;

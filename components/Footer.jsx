@@ -1,17 +1,14 @@
 import Link from "next/link";
 import React, { useRef, useEffect, useState } from "react";
 import { Container, Row, Col, Card, Button, Form } from "react-bootstrap";
-import { motion } from "framer-motion";
+
 import { useInView } from "react-intersection-observer";
 import { useAnimation } from "framer-motion";
 import Image from "next/image";
-import { AiOutlineFacebook, AiOutlineInstagram } from "react-icons/ai";
+
 import { RiMailSendLine } from "react-icons/ri";
 import { MdOutlinePhoneInTalk } from "react-icons/md";
 
-import emailjs from "@emailjs/browser";
-
-import { BsSnapchat } from "react-icons/bs";
 const Footer = () => {
 	const sectionRef = useRef(null);
 
@@ -108,7 +105,7 @@ const Footer = () => {
 			<Row className="text-center my-2 align-items-center">
 				<Col>
 					<Link href="/policy" className="footer-links ">
-						<h6 className="hover">Politik & Impressium</h6>
+						<h6>Politik & Impressium</h6>
 					</Link>
 				</Col>{" "}
 				<Col className="hover">
@@ -127,7 +124,7 @@ const Footer = () => {
 				</Col>
 				<Col>
 					<h6 className="text-black">
-						2023 Fenster Figiel Alle Rechte vorbehalten
+						2024 Fenster Figiel Alle Rechte vorbehalten
 					</h6>
 				</Col>
 			</Row>

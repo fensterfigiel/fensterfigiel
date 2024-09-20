@@ -64,27 +64,6 @@ a {
 	transition: opacity 0.3s ease; /* Dodatkowy efekt przejścia */
 }
 
-/* Styl dla zdjęcia (początkowy) */
-
-.card-1::before {
-	background-image: url("/assets/okna10.jpg");
-}
-.card-2::before {
-	background-image: url("/assets/termo11.jpg");
-}
-.card-3::before {
-	background-image: url("/assets/tynki6.png");
-}
-.card-4::before {
-	background-image: url("/assets/glazura2.jpg");
-}
-.card-5::before {
-	background-image: url("/assets/ogolne2.jpg");
-}
-.card-6::before {
-	background-image: url("/assets/ogrzewanie10.jpg");
-}
-
 .card-imgs::before {
 	content: "";
 	position: absolute;
@@ -170,24 +149,6 @@ a {
 
 ::-webkit-scrollbar {
 	display: none;
-}
-#tsparticles {
-	width: 100%;
-	height: 100%;
-	margin: 0;
-	padding: 0;
-	top: 0;
-	left: 0;
-	z-index: -1 !important;
-}
-
-#particles-container {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	z-index: -1 !important;
 }
 
 .design-img {
@@ -308,28 +269,6 @@ a {
 	transform: scale(1.2);
 	transition: 0.3s ease-in-out;
 }
-
-.product-detail-container {
-	display: flex;
-	gap: 40px;
-	margin: 40px;
-	margin-top: 60px;
-	color: #324d67;
-}
-
-.product-detail-image {
-	border-radius: 15px;
-	background-color: #ebebeb;
-
-	width: 400px;
-	height: 400px;
-	cursor: pointer;
-	transition: 0.3s ease-in-out;
-}
-.product-detail-image:hover {
-	background-color: #f02d34;
-}
-
 .small-images-container {
 	display: flex;
 	gap: 10px;

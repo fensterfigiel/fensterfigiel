@@ -10,8 +10,6 @@ import { useRouter } from "next/router";
 import { MdOutlinePhoneInTalk } from "react-icons/md";
 import { MdHome } from "react-icons/md";
 
-import imageUrlBuilder from "@sanity/image-url";
-
 const NavbarComp = ({ toggleTheme }) => {
 	const router = useRouter();
 	const [menuOpen, setMenuOpen] = useState(false);
@@ -198,7 +196,7 @@ const NavbarComp = ({ toggleTheme }) => {
 								<NavDropdown.Item as={Link} href="aluprofskbstyroterm">
 									<span className="text-bold">Aluprof SKB Styroterm</span>
 								</NavDropdown.Item>{" "}
-								<NavDropdown.Item as={Link} href="aluprofsktstyroterm">
+								<NavDropdown.Item as={Link} href="aluprofsktopoterm">
 									<span className="text-bold">Aluprof SKT OPOTERM</span>
 								</NavDropdown.Item>
 							</NavDropdown>

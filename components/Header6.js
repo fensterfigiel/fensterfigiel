@@ -1,7 +1,5 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Container, Accordion, Row, Col } from "react-bootstrap";
-
-import Image from "next/image";
 
 // Import the type
 

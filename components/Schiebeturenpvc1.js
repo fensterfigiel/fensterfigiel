@@ -6,7 +6,6 @@ import { useInView } from "react-intersection-observer";
 import Link from "next/link";
 
 import Image from "next/image";
-import imageUrlBuilder from "@sanity/image-url";
 
 function Schiebeturenpvc1() {
 	const [windowWidth, setWindowWidth] = useState(0);

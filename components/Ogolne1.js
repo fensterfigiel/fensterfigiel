@@ -1,12 +1,7 @@
 import React, { useEffect, useState } from "react";
-import { Container, Row, Col, Card, Button } from "react-bootstrap";
-import { motion, useAnimation } from "framer-motion";
+import { Container, Row, Col, Card } from "react-bootstrap";
+import { useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-
-import Link from "next/link";
-
-import Image from "next/image";
-import imageUrlBuilder from "@sanity/image-url";
 
 function Ogolne1() {
 	const [windowWidth, setWindowWidth] = useState(0);
@@ -85,7 +80,7 @@ function Ogolne1() {
 					<Card className="border-0 bg-transparent ">
 						<Card.Body>
 							<h1 className="text-bold text-center">
-								Herzlich Willkommen bei Fenster-Figiel
+								Herzlich Willkommen bei Fenster Figiel
 							</h1>
 							<Card.Text>
 								Hier finden Sie viele Informationen über unser Produkt, den

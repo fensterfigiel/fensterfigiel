@@ -1,13 +1,9 @@
 import React, { useEffect, useState } from "react";
-import { Container, Row, Col, Card, Button } from "react-bootstrap";
-import { motion, useAnimation } from "framer-motion";
+import { Container, Row, Col, Card } from "react-bootstrap";
+import { useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
-import Link from "next/link";
-import { MdDoubleArrow } from "react-icons/md";
-
 import Image from "next/image";
-import imageUrlBuilder from "@sanity/image-url";
 
 function Falu18() {
 	const [windowWidth, setWindowWidth] = useState(0);

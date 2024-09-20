@@ -1,19 +1,15 @@
-aluprofsktstyroterm;
-
 import React from "react";
 import Head from "next/head";
 
-import Aufsatzrolladen1 from "/components/Aufsatzrolladen1";
-import Aufsatzrolladen2 from "../components/Aufsatzrolladen2";
 import Aufsatzrolladen3 from "../components/Aufsatzrolladen3";
 import Aufsatzrolladen4 from "../components/Aufsatzrolladen4";
 import Rolladenplus from "../components/Rolladenplus";
 
-function aluprofsktstyroterm() {
+function aluprofsktopoterm() {
 	return (
 		<div className="">
 			<Head>
-				<title>Fenster Figiel Aufsatzrolladensystem SKT Styroterm</title>
+				<title>Fenster Figiel Aufsatzrolladensystem SKT Opoterm</title>
 
 				<meta name="robots" content="index, follow" />
 			</Head>
@@ -25,4 +21,4 @@ function aluprofsktstyroterm() {
 	);
 }
 
-export default aluprofsktstyroterm;
+export default aluprofsktopoterm;

@@ -1,12 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
-import { motion, useAnimation } from "framer-motion";
+import { useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-
-import Link from "next/link";
-
-import Image from "next/image";
-import imageUrlBuilder from "@sanity/image-url";
 
 function Fpvc8() {
 	const [windowWidth, setWindowWidth] = useState(0);

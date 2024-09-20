@@ -6,7 +6,6 @@ import { useInView } from "react-intersection-observer";
 import Link from "next/link";
 
 import Image from "next/image";
-import imageUrlBuilder from "@sanity/image-url";
 
 function Insektenschutz5() {
 	const [windowWidth, setWindowWidth] = useState(0);

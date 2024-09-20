@@ -36,8 +36,8 @@ const Contact1 = ({ onSubmit }) => {
 						<h1 className="py-3 text-bold"> Kontakt</h1>{" "}
 						<h3 className="py-3 text-bold">
 							{" "}
-							Fenster Figiel - Ihr zuverlässiger Fensterbauer für professionelle
-							Montage
+							Fenster Figiel - Ihr zuverlässiger Fensterbauer in Mönchengladbach
+							für professionelle Montage
 						</h3>
 						<Col lg={5} md={8} sm={8} className="mx-auto my-3 ">
 							<Card
@@ -98,7 +98,7 @@ const Contact1 = ({ onSubmit }) => {
 											);
 										}}
 									>
-										Locatie
+										Standort
 									</Button>
 								</Card.Body>
 							</Card>

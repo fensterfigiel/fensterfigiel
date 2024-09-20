@@ -2,7 +2,6 @@ import Contact1 from "/components/Contact1";
 
 import React from "react";
 import Head from "next/head";
-import { useState, useEffect } from "react";
 
 function contact() {
 	return (
@@ -10,7 +9,7 @@ function contact() {
 			<Head>
 				<title>
 					Kontaktieren Sie Fenster Figiel für professionelle Fenster- und
-					Türmontage
+					Türmontage in Mönchengladbach
 				</title>
 				<meta
 					name="description"

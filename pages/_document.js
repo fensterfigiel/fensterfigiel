@@ -5,9 +5,6 @@ export default function Document() {
 	return (
 		<Html lang="de">
 			<Head>
-				<meta name="description" content="" />
-				<meta name="keywords" content="" />
-
 				<link rel="icon" href="/assets/1logo50x50.png" />
 			</Head>
 			<body>

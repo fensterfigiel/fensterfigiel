@@ -7,7 +7,6 @@ import Link from "next/link";
 import { MdDoubleArrow } from "react-icons/md";
 
 import Image from "next/image";
-import imageUrlBuilder from "@sanity/image-url";
 
 function Pvcturen2() {
 	const [windowWidth, setWindowWidth] = useState(0);

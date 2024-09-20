@@ -1,19 +1,21 @@
 import React, { useEffect } from "react";
 import Head from "next/head";
-import Testimonials from "/components/Testimonials";
+import dynamic from "next/dynamic";
 
-import Fensterplus from "../components/Fensterplus";
-import Faqfenster from "../components/Faqfenster";
-import Falu1 from "../components/Falu1";
-import Falu2 from "../components/Falu2";
-import Falu3 from "../components/Falu3";
-import Falu4 from "../components/Falu4";
-import Falu5 from "../components/Falu5";
-import Falu6 from "../components/Falu6";
-import Falu7 from "../components/Falu7";
-import Falu8 from "../components/Falu8";
-import Falu9 from "../components/Falu9";
-import Falu10 from "../components/Falu10";
+// Dynamically import components
+const Falu1 = dynamic(() => import("../components/Falu1"));
+const Falu2 = dynamic(() => import("../components/Falu2"));
+const Falu3 = dynamic(() => import("../components/Falu3"));
+const Falu4 = dynamic(() => import("../components/Falu4"));
+const Falu5 = dynamic(() => import("../components/Falu5"));
+const Falu6 = dynamic(() => import("../components/Falu6"));
+const Falu7 = dynamic(() => import("../components/Falu7"));
+const Falu8 = dynamic(() => import("../components/Falu8"));
+const Falu9 = dynamic(() => import("../components/Falu9"));
+const Falu10 = dynamic(() => import("../components/Falu10"));
+const Fensterplus = dynamic(() => import("../components/Fensterplus"));
+const Testimonials = dynamic(() => import("../components/Testimonials"));
+const Faqfenster = dynamic(() => import("../components/Faqfenster"));
 
 function fensteralu() {
 	useEffect(() => {

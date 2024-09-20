@@ -7,7 +7,7 @@ import Link from "next/link";
 import { MdDoubleArrow } from "react-icons/md";
 
 import Image from "next/image";
-import imageUrlBuilder from "@sanity/image-url";
+
 import Insektenschutz1 from "./Insektenschutz1";
 
 function Rstoren4() {

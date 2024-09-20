@@ -1,12 +1,7 @@
 import React, { useEffect, useState } from "react";
-import { Container, Row, Col, Card, Button } from "react-bootstrap";
-import { motion, useAnimation } from "framer-motion";
+import { Container, Row, Col, Card } from "react-bootstrap";
+import { useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-
-import Link from "next/link";
-
-import Image from "next/image";
-import imageUrlBuilder from "@sanity/image-url";
 
 function Falu3() {
 	const [windowWidth, setWindowWidth] = useState(0);
@@ -79,7 +74,7 @@ function Falu3() {
 			fluid
 			className=" bg-dark mt-5 text-dark py-5 align-items-center justify-content-center"
 			style={{
-				backgroundImage: `url('/assets/Falu3.png')`,
+				backgroundImage: `url('/assets/Falu5.png')`,
 				backgroundSize: "cover",
 				backgroundPosition: "center",
 			}}
