@@ -4,11 +4,11 @@
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
-		"build": "next build",
+		"build": "next build && next export",
 		"start": "next start",
 		"postbuild": "next-sitemap --config next-sitemap.config.js",
 		"sitemap": "next-sitemap",
-		"pages:build": "next build && next-sitemap"
+		"pages:build": "next build && next export && next-sitemap"
 	},
 	"dependencies": {
 		"bootstrap": "^5.2.3",
@@ -44,9 +44,9 @@
 		"use-count-up": "^3.0.1"
 	},
 	"devDependencies": {
-		"@babel/core": "^7.22.10",
-		"@babel/preset-env": "^7.22.10",
-		"@babel/preset-react": "^7.18.6",
+		"@babel/core": "^7.25.2",
+		"@babel/preset-env": "^7.25.4",
+		"@babel/preset-react": "^7.24.7",
 		"cross-env": "^7.0.3",
 		"globals": "^15.9.0"
 	}
