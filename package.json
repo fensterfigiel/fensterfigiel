@@ -4,14 +4,14 @@
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
-		"build": "next build && next export",
+		"build": "next build ",
 		"start": "next start",
 		"postbuild": "next-sitemap --config next-sitemap.config.js",
 		"sitemap": "next-sitemap",
-		"pages:build": "next build && next export && next-sitemap"
+		"pages:build": "next build && next-sitemap"
 	},
 	"dependencies": {
-		"bootstrap": "^5.2.3",
+		"bootstrap": "^5.3.3",
 		"cookies-next": "^2.1.1",
 		"dotenv": "^16.0.3",
 		"fenster-figiel": "file:",
@@ -36,11 +36,10 @@
 		"react-spring": "^9.7.2",
 		"react-transition-group": "^4.4.5",
 		"react-vertical-timeline-component": "^3.6.0",
-		"sharp": "^0.33.5",
 		"slick-carousel": "^1.8.1",
 		"split-text-js": "^1.0.3",
 		"styled-components": "5.2",
-		"swc-loader": "^0.2.3",
+		"swc-loader": "^0.2.6",
 		"use-count-up": "^3.0.1"
 	},
 	"devDependencies": {
