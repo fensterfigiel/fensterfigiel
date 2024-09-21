@@ -4,10 +4,16 @@ import { useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import Link from "next/link";
 import Image from "next/image";
+
 import profilePic1 from "../public/assets/7-1.png";
 import profilePic2 from "../public/assets/schiebeturen-1.png";
 import profilePic3 from "../public/assets/51-1.png";
 import profilePic4 from "../public/assets/hausturen-1.png";
+import profilePic5 from "../public/assets/hausturen-MG.png";
+import profilePic6 from "../public/assets/schiebenturen-MG.png";
+import profilePic7 from "../public/assets/fenster-MG.png";
+import profilePic8 from "../public/assets/rolladen-MG.png";
+
 function Testowy() {
 	const [windowWidth, setWindowWidth] = useState(0);
 
@@ -62,18 +68,19 @@ function Testowy() {
 									style={{ height: "100vh" }}
 								>
 									<Image
-										src={profilePic1}
+										src={isMobile ? profilePic7 : profilePic1}
 										alt="First slide"
 										layout="fill"
 										objectFit="cover"
 										// Ten obraz ładuje się jako pierwszy dla lepszego FCP
-										quality={50} // Obniżenie jakości dla zmniejszenia wagi
+										quality={isMobile ? 50 : 70} // Obniżenie jakości dla zmniejszenia wagi
 									/>
 								</div>
 								<Link href="fenster">
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5 text-center">
 										<h4 className="mobile-text">
-											Günstige PVC-Fenster aus Kömmerlingprofilen...
+											Günstige PVC-Fenster aus Schüco und Kömmerlingprofilen in
+											allen Varianten und Farben.
 										</h4>
 										<Button>FENSTER</Button>
 									</Carousel.Caption>
@@ -86,7 +93,7 @@ function Testowy() {
 									style={{ height: "100vh" }}
 								>
 									<Image
-										src={profilePic2}
+										src={isMobile ? profilePic6 : profilePic2}
 										alt="Second slide"
 										layout="fill"
 										objectFit="cover"
@@ -97,7 +104,8 @@ function Testowy() {
 								<Link href="schiebeturen">
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 										<h4 className="mobile-text">
-											Balkontüren, Terassentüren- anlagen...
+											Balkontüren, Terassentüren- anlagen als HSK-T und HS-T.
+											Direkt von einem der größten Hersteller in Polen.
 										</h4>
 										<Button>SCHIEBETÜREN</Button>
 									</Carousel.Caption>
@@ -110,7 +118,7 @@ function Testowy() {
 									style={{ height: "100vh" }}
 								>
 									<Image
-										src={profilePic3}
+										src={isMobile ? profilePic8 : profilePic3}
 										alt="Third slide"
 										layout="fill"
 										objectFit="cover"
@@ -121,7 +129,8 @@ function Testowy() {
 								<Link href="rolladen">
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 										<h4 className="mobile-text">
-											Wir liefern und montieren Kömmerling Fenster...
+											Wir liefern und montieren Schüco und Kömmerling Fenster,
+											Balkontüren, Schiebetüren und Rollladen.
 										</h4>
 										<Button>ROLLADEN</Button>
 									</Carousel.Caption>
@@ -134,7 +143,7 @@ function Testowy() {
 									style={{ height: "100vh" }}
 								>
 									<Image
-										src={profilePic4}
+										src={isMobile ? profilePic5 : profilePic4}
 										alt="Fourth slide"
 										layout="fill"
 										objectFit="cover"
@@ -144,7 +153,8 @@ function Testowy() {
 								</div>
 								<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 									<h4 className="mobile-text">
-										Wir bieten hochwertige Haustüren...
+										Wir bieten hochwertige Haustüren mit unterschiedlichen
+										Designs und Farben.
 									</h4>
 									<Link href="hausturen">
 										<Button>HAUSTÜREN</Button>

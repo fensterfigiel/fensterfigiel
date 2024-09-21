@@ -31,7 +31,7 @@ const Contact1 = ({ onSubmit }) => {
 
 		return (
 			<Container className="bg-light text-dark" fluid>
-				<div className="py-5">
+				<div className="pt-5">
 					<Row className=" justify-content-center text-center align-items-center py-5">
 						<h1 className="py-3 text-bold"> Kontakt</h1>{" "}
 						<h3 className="py-3 text-bold">

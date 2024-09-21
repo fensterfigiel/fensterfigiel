@@ -19,7 +19,7 @@ export default function Home() {
 			<Head>
 				<title>
 					Fenster Figiel - Ihr Experte für hochwertige Fenster, Türen und
-					Rollläden in Mönchengladbach | Top Montage & Reparatur
+					Rollläden in Mönchengladbach | Direkt aus Polen
 				</title>
 				<meta
 					name="description"

@@ -328,7 +328,7 @@ const NavbarComp = ({ toggleTheme }) => {
 							</NavDropdown>
 						</NavDropdown>
 
-						<Nav.Link as={Link} href="contact" className="m-1">
+						<Nav.Link as={Link} href="/kontakt" className="m-1">
 							<Button
 								className="btn-md py-2 btn-green text-white  border-0 shadow-md hover"
 								style={{ textTransform: "capitalize" }}

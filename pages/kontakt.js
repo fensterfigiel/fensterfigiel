@@ -1,9 +1,9 @@
 import Contact1 from "/components/Contact1";
-
+import Header6 from "/components/Header6";
 import React from "react";
 import Head from "next/head";
 
-function contact() {
+function kontakt() {
 	return (
 		<div className="">
 			<Head>
@@ -18,8 +18,9 @@ function contact() {
 				<meta name="robots" content="index, follow" />
 			</Head>
 			<Contact1 />
+			<Header6 />
 		</div>
 	);
 }
 
-export default contact;
+export default kontakt;

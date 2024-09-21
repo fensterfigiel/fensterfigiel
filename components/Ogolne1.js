@@ -90,17 +90,18 @@ function Ogolne1() {
 								Garantieansprüchen.
 							</Card.Text>
 							<Card.Text className="text-bold">
-								Wir liefern und montieren Fenster und Schiebetüren von
-								Kömmerling (PVC oder PVC Aluschallen), mit elektrischen
+								Wir liefern und montieren Fenster und Schiebetüren von Schüco
+								und Kömmerling (PVC oder PVC Aluschallen), mit elektrischen
 								Aufsatzrollläden /Vorbaurollläden oder mechanischen Rollläden +
 								Hauseingangstüren in allen Varianten.
 							</Card.Text>
 							<Card.Text>
-								Unsere Orginal Kömmerling Bauelemente werden in der Firma
-								Okno-pol in Polen hergestellt und direkt aus dem Werk der Fa.
-								Okno-pol an unsere Kunden ausgeliefert – ohne Zwischenlagerung.
-								Unsere Montagefirma aus Mönchengladbach (3 poln. Mitarbeiter)
-								arbeitet schon seit 20 Jahren erfolgreich mit Okno-Pol zusammen.
+								Unsere Orginal Schüco und Kömmerling Bauelemente werden in der
+								Firma Okno-pol in Polen hergestellt und direkt aus dem Werk der
+								Fa. Okno-pol an unsere Kunden ausgeliefert – ohne
+								Zwischenlagerung. Unsere Montagefirma aus Mönchengladbach (3
+								poln. Mitarbeiter) arbeitet schon seit 20 Jahren erfolgreich mit
+								Okno-Pol zusammen.
 							</Card.Text>
 							<Card.Text>
 								Unser Montage- und Arbeitsbereich beschränkt sich auf den
@@ -150,13 +151,6 @@ function Ogolne1() {
 								in Mönchengladbach und Fa. Okno-pol als Hersteller abgedeckt.
 								Ein ausführliches Informationsblatt kann nach Wunsch zur
 								Verfügung gestellt werden.
-							</Card.Text>
-							<Card.Text>
-								<span className="text-bold">
-									Bitte rufen Sie uns an unter :
-								</span>{" "}
-								0176/20614741 oder schreiben Sie uns eine Email :
-								fenster-figiel@t-online.de
 							</Card.Text>
 						</Card.Body>
 					</Card>

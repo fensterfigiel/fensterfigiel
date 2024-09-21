@@ -20,9 +20,12 @@ const config = {
 			"/fensterbauer/bracht",
 			"/fensterbauer/brugen",
 			"/",
+			"/kontakt",
 			"/fenster",
 			"/hausturen",
 			"/schiebeturen",
+			"/aufsatzrolladen",
+			"/rolladen",
 		];
 
 		// Customize the priority and changefreq for those pages
@@ -40,7 +43,7 @@ const config = {
 			loc: `${config.siteUrl}${url}`, // URL location
 			lastmod: new Date().toISOString(), // Last modified date
 			changefreq: "weekly", // Default change frequency
-			priority: 0.7, // Default priority
+			priority: 0.5, // Default priority
 		};
 	},
 };
