@@ -1,13 +1,16 @@
 import React from "react";
 import Head from "next/head";
-import Testimonials from "/components/Testimonials";
+import dynamic from "next/dynamic";
 
 import Schiebeturenpvc1 from "../components/Schiebeturenpvc1";
-import Schiebeturenplus from "../components/Schiebeturenplus";
-import Schiebeturenpvc2 from "../components/Schiebeturenpvc2";
-import Schiebeturenpvc3 from "../components/Schiebeturenpvc3";
-import Schiebeturenpvc4 from "../components/Schiebeturenpvc4";
-import SchiebeturenFaq from "../components/SchiebeturenFaq";
+const Schiebeturenpvc2 = dynamic(() =>
+	import("../components/Schiebeturenpvc2")
+);
+const Schiebeturenplus = dynamic(() =>
+	import("../components/Schiebeturenplus")
+);
+const SchiebeturenFaq = dynamic(() => import("../components/SchiebeturenFaq"));
+const Testimonials = dynamic(() => import("/components/Testimonials"));
 
 function kommerlingpremidoor76() {
 	return (

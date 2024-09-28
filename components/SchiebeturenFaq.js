@@ -1,14 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { Container, Accordion, Row, Col } from "react-bootstrap";
-
-import Image from "next/image";
 
 // Import the type
 
 function SchiebeturenFaq() {
-	const [accordionData, setAccordionData] = useState([]);
-	const [backgroundColor, setBackgroundColor] = useState("#ffffff");
-
 	return (
 		<Container className="bg-light text-dark  py-5" fluid>
 			<Row className="justify-content-center align-items-center">

@@ -1,11 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Container, Row, Col, Card, Button } from "react-bootstrap";
-import { motion, useAnimation } from "framer-motion";
-import { useInView } from "react-intersection-observer";
-
-import Link from "next/link";
-
-import Image from "next/image";
+import { Container, Row, Col, Card } from "react-bootstrap";
 
 function Salu1() {
 	const [windowWidth, setWindowWidth] = useState(0);
@@ -42,43 +36,12 @@ function Salu1() {
 
 	const isMobile = windowWidth <= 768;
 
-	const [ref, inView] = useInView({
-		threshold: 0.5,
-		triggerOnce: false,
-	});
-
-	const animateIn = {
-		opacity: 1,
-		transition: {
-			duration: 1,
-			ease: "easeInOut",
-		},
-	};
-
-	const animateOut = {
-		opacity: 0,
-		transition: {
-			duration: 1,
-			ease: "easeInOut",
-		},
-	};
-
-	const controls = useAnimation();
-
-	useEffect(() => {
-		if (inView) {
-			controls.start(animateIn);
-		} else {
-			controls.start(animateOut);
-		}
-	}, [inView, controls, animateIn, animateOut]);
-
 	return (
 		<Container
 			fluid
 			className=" bg-dark mt-5 text-dark py-5 align-items-center justify-content-center"
 			style={{
-				backgroundImage: `url('/assets/Salu1.png')`,
+				backgroundImage: `url('/assets/Spvc1.png')`,
 				backgroundSize: "cover",
 				backgroundPosition: "center",
 			}}

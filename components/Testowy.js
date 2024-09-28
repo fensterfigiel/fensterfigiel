@@ -1,14 +1,13 @@
 import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Button, Carousel } from "react-bootstrap";
-import { useAnimation } from "framer-motion";
-import { useInView } from "react-intersection-observer";
+
 import Link from "next/link";
 import Image from "next/image";
 
-import profilePic1 from "../public/assets/7-1.png";
-import profilePic2 from "../public/assets/schiebeturen-1.png";
-import profilePic3 from "../public/assets/51-1.png";
-import profilePic4 from "../public/assets/hausturen-1.png";
+import profilePic1 from "../public/assets/fenster-neu.png";
+import profilePic2 from "../public/assets/schiebeturen-neu.png";
+import profilePic3 from "../public/assets/rolladen-neu.png";
+import profilePic4 from "../public/assets/hausturen-neu.png";
 import profilePic5 from "../public/assets/hausturen-MG.png";
 import profilePic6 from "../public/assets/schiebenturen-MG.png";
 import profilePic7 from "../public/assets/fenster-MG.png";
@@ -30,30 +29,6 @@ function Testowy() {
 	const isMobile = windowWidth <= 768;
 
 	// Użycie Intersection Observer do kontrolowania widoczności komponentu
-	const [ref, inView] = useInView({
-		threshold: 0.5,
-		triggerOnce: true, // Lazy load animacje tylko raz
-	});
-
-	const animateIn = {
-		opacity: 1,
-		transition: { duration: 1, ease: "easeInOut" },
-	};
-
-	const animateOut = {
-		opacity: 0,
-		transition: { duration: 1, ease: "easeInOut" },
-	};
-
-	const controls = useAnimation();
-
-	useEffect(() => {
-		if (inView) {
-			controls.start(animateIn);
-		} else {
-			controls.start(animateOut);
-		}
-	}, [inView, controls]);
 
 	return (
 		<Container fluid className="pt-5 align-items-center justify-content-center">
@@ -65,15 +40,14 @@ function Testowy() {
 							<Carousel.Item>
 								<div
 									className="d-flex align-items-center justify-content-center"
-									style={{ height: "100vh" }}
+									style={{ height: "100vh", width: "100vw" }}
 								>
 									<Image
 										src={isMobile ? profilePic7 : profilePic1}
 										alt="First slide"
-										layout="fill"
-										objectFit="cover"
-										// Ten obraz ładuje się jako pierwszy dla lepszego FCP
+										style={{ width: "100vw", height: "100vh" }}
 										quality={isMobile ? 50 : 70} // Obniżenie jakości dla zmniejszenia wagi
+										priority
 									/>
 								</div>
 								<Link href="fenster">
@@ -90,15 +64,14 @@ function Testowy() {
 							<Carousel.Item>
 								<div
 									className="d-flex align-items-center justify-content-center"
-									style={{ height: "100vh" }}
+									style={{ height: "100vh", width: "100vw" }}
 								>
 									<Image
 										src={isMobile ? profilePic6 : profilePic2}
 										alt="Second slide"
-										layout="fill"
-										objectFit="cover"
 										loading="lazy" // Lazy loading dla kolejnych obrazów
 										quality={70} // Optymalizacja jakości
+										style={{ width: "100vw", height: "100vh" }}
 									/>
 								</div>
 								<Link href="schiebeturen">
@@ -115,15 +88,14 @@ function Testowy() {
 							<Carousel.Item>
 								<div
 									className="d-flex align-items-center justify-content-center"
-									style={{ height: "100vh" }}
+									style={{ height: "100vh", width: "100vw" }}
 								>
 									<Image
 										src={isMobile ? profilePic8 : profilePic3}
 										alt="Third slide"
-										layout="fill"
-										objectFit="cover"
 										loading="lazy" // Lazy loading dla kolejnych obrazów
 										quality={70}
+										style={{ width: "100vw", height: "100vh" }}
 									/>
 								</div>
 								<Link href="rolladen">
@@ -140,15 +112,14 @@ function Testowy() {
 							<Carousel.Item>
 								<div
 									className="d-flex align-items-center justify-content-center"
-									style={{ height: "100vh" }}
+									style={{ height: "100vh", width: "100vw" }}
 								>
 									<Image
 										src={isMobile ? profilePic5 : profilePic4}
 										alt="Fourth slide"
-										layout="fill"
-										objectFit="cover"
 										loading="lazy" // Lazy loading
 										quality={70}
+										style={{ width: "100vw", height: "100vh" }}
 									/>
 								</div>
 								<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">

@@ -1,12 +1,13 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Head from "next/head";
-import Testimonials from "/components/Testimonials";
-
-import Fensterplus from "../components/Fensterplus";
-import Faqfenster from "../components/Faqfenster";
+import dynamic from "next/dynamic";
 
 import Falu3 from "../components/Falu3";
-import Falu4 from "../components/Falu4";
+
+const Falu4 = dynamic(() => import("../components/Falu4"));
+const Fensterplus = dynamic(() => import("../components/Fensterplus"));
+const Testimonials = dynamic(() => import("/components/Testimonials"));
+const Faqfenster = dynamic(() => import("../components/Faqfenster"));
 
 function schucoaws75() {
 	return (

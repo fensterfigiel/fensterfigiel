@@ -1,15 +1,15 @@
 import React from "react";
 import Head from "next/head";
-
-import Testimonials from "/components/Testimonials";
-
-import Fensterplus from "../components/Fensterplus";
-import Faqfenster from "../components/Faqfenster";
+import dynamic from "next/dynamic";
 
 import Fpvcmit1 from "../components/Fpvcmit1";
-import Fpvcmit2 from "../components/Fpvcmit2";
-import Fpvcmit3 from "../components/Fpvcmit3";
-import Fpvcmit4 from "../components/Fpvcmit4";
+
+const Testimonials = dynamic(() => import("../components/Testimonials"));
+const Fensterplus = dynamic(() => import("../components/Fensterplus"));
+const Faqfenster = dynamic(() => import("../components/Faqfenster"));
+const Fpvcmit2 = dynamic(() => import("../components/Fpvcmit2"));
+const Fpvcmit3 = dynamic(() => import("../components/Fpvcmit3"));
+const Fpvcmit4 = dynamic(() => import("../components/Fpvcmit4"));
 
 function fensterpvcmitalu() {
 	return (

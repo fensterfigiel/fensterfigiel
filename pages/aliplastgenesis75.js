@@ -1,9 +1,13 @@
 import React from "react";
 import Head from "next/head";
+import dynamic from "next/dynamic";
 import Talu1 from "../components/Talu1";
-import Talu2 from "../components/Talu2";
+
+// Dynamiczne importowanie Talu2
+const Talu2 = dynamic(() => import("../components/Talu2"));
 
 import Hausturenplus from "../components/Hausturenplus";
+
 function aliplastgenesis75() {
 	return (
 		<div className="">
@@ -17,7 +21,6 @@ function aliplastgenesis75() {
 			</Head>
 			<Talu1 />
 			<Talu2 />
-
 			<Hausturenplus />
 		</div>
 	);

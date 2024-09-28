@@ -1,11 +1,12 @@
 import React from "react";
 import Head from "next/head";
-import Testimonials from "/components/Testimonials";
-
-import Fensterplus from "../components/Fensterplus";
-import Faqfenster from "../components/Faqfenster";
+import dynamic from "next/dynamic";
 import Fpvc7 from "../components/Fpvc7";
-import Fpvc2 from "../components/Fpvc2";
+
+const Fpvc2 = dynamic(() => import("../components/Fpvc2"));
+const Fensterplus = dynamic(() => import("../components/Fensterplus"));
+const Testimonials = dynamic(() => import("/components/Testimonials"));
+const Faqfenster = dynamic(() => import("../components/Faqfenster"));
 
 function kommerling76ad() {
 	return (

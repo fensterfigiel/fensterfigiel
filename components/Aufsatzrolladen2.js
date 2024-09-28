@@ -3,8 +3,6 @@ import { Container, Row, Col, Card } from "react-bootstrap";
 import { useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
-import Link from "next/link";
-
 import Image from "next/image";
 
 function Aufsatzrolladen2() {

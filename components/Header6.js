@@ -1,15 +1,21 @@
-import React, { useState } from "react";
+import Image from "next/image";
+import React from "react";
 import { Container, Accordion, Row, Col } from "react-bootstrap";
-
+import faqBG from "../public/assets/background-faq.png";
 // Import the type
 
 function Header6() {
-	const [accordionData, setAccordionData] = useState([]);
-	const [backgroundColor, setBackgroundColor] = useState("#ffffff");
-
 	return (
 		<Container className="  py-5 " fluid id="web-design-faq">
-			<Row className="faq-bg" style={{ height: "300px" }}></Row>
+			<Row style={{ height: "300px" }}>
+				<Image
+					src={faqBG}
+					height={300}
+					style={{ objectFit: "cover" }}
+					loading="lazy"
+					alt="fenster-bg"
+				/>
+			</Row>
 
 			<Row className="justify-content-center align-items-center">
 				<Col lg={8} md={6} xs={12} className="py-5 text-center">

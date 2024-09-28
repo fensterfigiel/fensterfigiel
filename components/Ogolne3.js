@@ -81,7 +81,7 @@ function Ogolne3() {
 			<Row className="justify-content-center  align-items-center">
 				<Col lg={5} className="mx-auto my-2 text-center ">
 					<Image
-						src="/assets/schiebeturen-1.png"
+						src="/assets/schiebeturen-neu.png"
 						width={600}
 						height={500}
 						className="responsive-image shadow-lg"

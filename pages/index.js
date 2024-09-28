@@ -1,15 +1,29 @@
 import { useTheme } from "next-themes";
 import Head from "next/head";
 import React from "react";
-import Header6 from "/components/Header6";
+import dynamic from "next/dynamic";
 import Ogolne1 from "/components/Ogolne1";
 import Header10 from "/components/Header10";
-import Testimonials from "/components/Testimonials";
-import Ogolne2 from "/components/Ogolne2";
-import Testowy from "/components/Testowy";
+import Ogolne2 from "../components/Ogolne2";
+
 import Ogolne3 from "../components/Ogolne3";
 import Ogolne4 from "../components/Ogolne4";
 import Ogolne5 from "../components/Ogolne5";
+
+// Dynamic import for Testimonials
+const Testimonials = dynamic(() => import("/components/Testimonials"), {
+	loading: () => <p>Loading testimonials...</p>, // Optional loading component
+});
+
+// Dynamic import for Header6
+const Header6 = dynamic(() => import("/components/Header6"), {
+	loading: () => <p>Loading header...</p>, // Optional loading component
+});
+
+// Dynamic import for Header6
+const Testowy = dynamic(() => import("/components/Testowy"), {
+	loading: () => <p>Loading header...</p>, // Optional loading component
+});
 
 export default function Home() {
 	const { theme } = useTheme();
@@ -36,7 +50,6 @@ export default function Home() {
 			<Ogolne4 />
 			<Ogolne5 />
 			<Testimonials />
-
 			<Header6 />
 		</>
 	);

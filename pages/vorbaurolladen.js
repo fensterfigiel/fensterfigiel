@@ -1,10 +1,6 @@
 import React from "react";
 import Head from "next/head";
 
-import Aufsatzrolladen1 from "/components/Aufsatzrolladen1";
-import Aufsatzrolladen2 from "../components/Aufsatzrolladen2";
-import Aufsatzrolladen3 from "../components/Aufsatzrolladen3";
-import Aufsatzrolladen4 from "../components/Aufsatzrolladen4";
 import Rolladenplus from "../components/Rolladenplus";
 import Vorbaurolladen1 from "../components/Vorbaurolladen1";
 import Vorbaurolladen2 from "../components/Vorbaurolladen2";

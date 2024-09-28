@@ -1,17 +1,7 @@
 import { useState, useEffect, useRef } from "react";
-import {
-	Container,
-	Row,
-	Col,
-	Card,
-	Carousel,
-	Button,
-	CardGroup,
-} from "react-bootstrap";
+import { Container, Row, Col, Card } from "react-bootstrap";
 import { useSpring, animated } from "react-spring";
 import { useRouter } from "next/router";
-
-import Link from "next/link";
 
 function Fensterplus() {
 	const router = useRouter();

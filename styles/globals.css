@@ -18,10 +18,8 @@ body {
 }
 
 .faq-bg {
-	background-image: url("../public/assets/background.png");
-	background-size: cover; /* Ustawienie rozmiaru obrazka na auto */
-	background-repeat: no-repeat;
-	background-attachment: fixed; /* Obrazek tła będzie stały podczas przewijania */
+	background-image: url("../public/assets/background-faq.png");
+	/* Obrazek tła będzie stały podczas przewijania */
 }
 
 .termo-hover:hover {
@@ -361,6 +359,12 @@ span.navbar-toggler-icon.collapsed {
 		justify-self: center;
 		width: 200px; /* Dodaj wewnętrzny padding */
 		margin: 0 20px; /* Dodaj zewnętrzne marginesy */
+	}
+}
+
+@media (max-width: 576px) {
+	.faq-bg-image {
+		object-fit: cover;
 	}
 }
 

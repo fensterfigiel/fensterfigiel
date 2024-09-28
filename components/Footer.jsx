@@ -1,39 +1,15 @@
 import Link from "next/link";
-import React, { useRef, useEffect, useState } from "react";
-import { Container, Row, Col, Card, Button, Form } from "react-bootstrap";
+import React, { useRef } from "react";
+import { Container, Row, Col, Card } from "react-bootstrap";
 
-import { useInView } from "react-intersection-observer";
-import { useAnimation } from "framer-motion";
 import Image from "next/image";
-
 import { RiMailSendLine } from "react-icons/ri";
 import { MdOutlinePhoneInTalk } from "react-icons/md";
 
 const Footer = () => {
 	const sectionRef = useRef(null);
 
-	const [ref, inView] = useInView({
-		threshold: 0.5,
-		triggerOnce: false,
-	});
-
-	const animateIn = {
-		opacity: 1,
-
-		transition: {
-			duration: 1,
-			ease: "easeInOut",
-		},
-	};
-
 	const email = "fenster-figiel@t-online.de";
-
-	const controls = useAnimation();
-	useEffect(() => {
-		if (inView) {
-			controls.start(animateIn);
-		}
-	}, [inView, controls, animateIn]);
 
 	const handleEmailClick = () => {
 		window.location.href = `mailto:${email}`;

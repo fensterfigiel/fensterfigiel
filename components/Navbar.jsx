@@ -1,13 +1,12 @@
 import React, { useState, useEffect } from "react";
-import { NavDropdown, Container, Button, Dropdown } from "react-bootstrap";
+import { NavDropdown, Container, Button } from "react-bootstrap";
 import Nav from "react-bootstrap/Nav";
 import Link from "next/link";
 import Navbar from "react-bootstrap/Navbar";
 import Image from "next/image";
-import { useTheme } from "next-themes";
-import { FiX } from "react-icons/fi";
+
 import { useRouter } from "next/router";
-import { MdOutlinePhoneInTalk } from "react-icons/md";
+
 import { MdHome } from "react-icons/md";
 
 const NavbarComp = ({ toggleTheme }) => {

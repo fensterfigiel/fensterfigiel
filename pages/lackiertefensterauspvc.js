@@ -1,11 +1,11 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Head from "next/head";
-import Testimonials from "/components/Testimonials";
+import dynamic from "next/dynamic";
 
-import Fensterplus from "../components/Fensterplus";
-import Faqfenster from "../components/Faqfenster";
 import Fpvc5 from "../components/Fpvc5";
-import Fpvc4 from "../components/Fpvc4";
+const Fpvc4 = dynamic(() => import("../components/Fpvc4"));
+const Fensterplus = dynamic(() => import("../components/Fensterplus"));
+const Testimonials = dynamic(() => import("/components/Testimonials"));
 
 function lackiertefensterauspvc() {
 	return (

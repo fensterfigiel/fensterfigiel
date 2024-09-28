@@ -171,7 +171,7 @@ function Schiebeturenplus() {
 									}}
 								>
 									<Card.Img
-										src="/assets/Splus3 .png"
+										src="/assets/Splus3.png"
 										style={{
 											width: "6rem",
 											height: "6rem",

@@ -1,12 +1,15 @@
 import React from "react";
 import Head from "next/head";
-import Testimonials from "/components/Testimonials";
-import SchiebeturenFaq from "/components/SchiebeturenFaq";
+import dynamic from "next/dynamic";
+import Salu1 from "../components/Salu1"; // Import standardowy
 
-import Salu1 from "../components/Salu1";
-import Salu2 from "../components/Salu2";
-
-import Schiebeturenplus from "../components/Schiebeturenplus";
+// Dynamiczne importowanie pozostałych komponentów
+const Salu2 = dynamic(() => import("../components/Salu2"));
+const Schiebeturenplus = dynamic(() =>
+	import("../components/Schiebeturenplus")
+);
+const Testimonials = dynamic(() => import("/components/Testimonials"));
+const SchiebeturenFaq = dynamic(() => import("/components/SchiebeturenFaq"));
 
 function aliplastultraglide() {
 	return (
@@ -19,12 +22,12 @@ function aliplastultraglide() {
 				/>
 				<meta name="robots" content="index, follow" />
 			</Head>
-			<Salu1 />
-			<Salu2 />
 
+			<Salu1 />
+
+			<Salu2 />
 			<Schiebeturenplus />
 			<Testimonials />
-
 			<SchiebeturenFaq />
 		</div>
 	);

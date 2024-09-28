@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { Col, Container, Row, Card, Button, Form } from "react-bootstrap";
+import React, { useState } from "react";
+import { Col, Container, Row, Card, Button } from "react-bootstrap";
 import { AiOutlinePhone, AiOutlineMail } from "react-icons/ai";
 import { HiOutlineLocationMarker } from "react-icons/hi";
 import Image from "next/image";

@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
-import { useAnimation } from "framer-motion";
-import { useInView } from "react-intersection-observer";
 
 import Image from "next/image";
 
@@ -39,37 +37,6 @@ function Falu4() {
 	}, []);
 
 	const isMobile = windowWidth <= 768;
-
-	const [ref, inView] = useInView({
-		threshold: 0.5,
-		triggerOnce: false,
-	});
-
-	const animateIn = {
-		opacity: 1,
-		transition: {
-			duration: 0.1,
-			ease: "easeInOut",
-		},
-	};
-
-	const animateOut = {
-		opacity: 0,
-		transition: {
-			duration: 1,
-			ease: "easeInOut",
-		},
-	};
-
-	const controls = useAnimation();
-
-	useEffect(() => {
-		if (inView) {
-			controls.start(animateIn);
-		} else {
-			controls.start(animateOut);
-		}
-	}, [inView, controls, animateIn, animateOut]);
 
 	return (
 		<Container
