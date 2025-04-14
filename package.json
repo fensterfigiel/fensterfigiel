@@ -10,7 +10,7 @@
 		"sitemap": "next-sitemap"
 	},
 	"dependencies": {
-		"@cloudflare/next-on-pages": "^1.13.2",
+		"@cloudflare/next-on-pages": "^1.13.12",
 		"bootstrap": "^5.3.3",
 		"cookies-next": "^2.1.1",
 		"dotenv": "^16.0.3",
