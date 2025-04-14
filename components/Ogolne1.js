@@ -57,10 +57,10 @@ function Ogolne1() {
 								Garantieansprüchen.
 							</Card.Text>
 							<Card.Text className="text-bold">
-								Wir liefern und montieren Fenster und Schiebetüren von Schüco
-								und Kömmerling (PVC oder PVC Aluschallen), mit elektrischen
-								Aufsatzrollläden /Vorbaurollläden oder mechanischen Rollläden +
-								Hauseingangstüren in allen Varianten.
+								Wir liefern und montieren Fenster und Schiebetüren von Schüco,
+								Rehau und Kömmerling (PVC oder PVC Aluschallen), mit
+								elektrischen Aufsatzrollläden /Vorbaurollläden oder mechanischen
+								Rollläden + Hauseingangstüren in allen Varianten.
 							</Card.Text>
 							<Card.Text>
 								Unsere Orginal Schüco und Kömmerling Bauelemente werden in der

@@ -12,6 +12,8 @@ import profilePic5 from "../public/assets/hausturen-MG.png";
 import profilePic6 from "../public/assets/schiebenturen-MG.png";
 import profilePic7 from "../public/assets/fenster-MG.png";
 import profilePic8 from "../public/assets/rolladen-MG.png";
+import profilePic9 from "../public/assets/rehaufenster-banner-mobile1.png";
+import profilePic10 from "../public/assets/rehaufenster-banner.png";
 
 function Testowy() {
 	const [windowWidth, setWindowWidth] = useState(0);
@@ -31,12 +33,36 @@ function Testowy() {
 	// Użycie Intersection Observer do kontrolowania widoczności komponentu
 
 	return (
-		<Container fluid className="pt-5 align-items-center justify-content-center">
+		<Container fluid className="pt-0 align-items-center justify-content-center">
 			<Row className="align-items-center justify-content-center">
 				<Col>
 					<Row className="align-items-center justify-content-center text-center text-dark">
-						<Carousel variant="dark">
+						<Carousel variant="dark indicators-" indicators={false}>
 							{/* Optymalizacja obrazów z lazy loading */}
+							<Carousel.Item>
+								<div
+									className="d-flex align-items-center justify-content-center"
+									style={{ height: "100vh", width: "100vw" }}
+								>
+									<Image
+										src={isMobile ? profilePic9 : profilePic10}
+										alt="First slide"
+										style={{ width: "100vw", height: "100vh" }}
+										quality={isMobile ? 50 : 70} // Obniżenie jakości dla zmniejszenia wagi
+										priority
+									/>
+								</div>
+								<Link href="fensterrehau">
+									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5 text-center">
+										<h4 className="mobile-text">
+											🔥NEU Rehau Fenster - Zertifizierte Premium Profile
+											<br />
+											Mit deutscher Montagequalität.
+										</h4>
+										<Button className="btn-danger">REHAU FENSTER</Button>
+									</Carousel.Caption>
+								</Link>
+							</Carousel.Item>{" "}
 							<Carousel.Item>
 								<div
 									className="d-flex align-items-center justify-content-center"
@@ -53,14 +79,13 @@ function Testowy() {
 								<Link href="fenster">
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5 text-center">
 										<h4 className="mobile-text">
-											Günstige PVC-Fenster aus Schüco und Kömmerlingprofilen in
-											allen Varianten und Farben.
+											✅Günstige PVC-Fenster aus Schüco und Kömmerlingprofilen
+											in allen Varianten und Farben.
 										</h4>
 										<Button>FENSTER</Button>
 									</Carousel.Caption>
 								</Link>
 							</Carousel.Item>
-
 							<Carousel.Item>
 								<div
 									className="d-flex align-items-center justify-content-center"
@@ -77,14 +102,13 @@ function Testowy() {
 								<Link href="schiebeturen">
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 										<h4 className="mobile-text">
-											Balkontüren, Terassentüren- anlagen als HSK-T und HS-T.
+											🚪Balkontüren, Terassentüren- anlagen als HSK-T und HS-T.
 											Direkt von einem der größten Hersteller in Polen.
 										</h4>
 										<Button>SCHIEBETÜREN</Button>
 									</Carousel.Caption>
 								</Link>
 							</Carousel.Item>
-
 							<Carousel.Item>
 								<div
 									className="d-flex align-items-center justify-content-center"
@@ -101,14 +125,13 @@ function Testowy() {
 								<Link href="rolladen">
 									<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 										<h4 className="mobile-text">
-											Wir liefern und montieren Schüco und Kömmerling Fenster,
-											Balkontüren, Schiebetüren und Rollladen.
+											🛡️Wir liefern und montieren Schüco, Rehau und Kömmerling
+											Fenster, Balkontüren, Schiebetüren und Rollladen.
 										</h4>
 										<Button>ROLLADEN</Button>
 									</Carousel.Caption>
 								</Link>
 							</Carousel.Item>
-
 							<Carousel.Item>
 								<div
 									className="d-flex align-items-center justify-content-center"
@@ -124,7 +147,7 @@ function Testowy() {
 								</div>
 								<Carousel.Caption className="bg-dark-opacity text-white text-bold rounded m-5">
 									<h4 className="mobile-text">
-										Wir bieten hochwertige Haustüren mit unterschiedlichen
+										🔑Wir bieten hochwertige Haustüren mit unterschiedlichen
 										Designs und Farben.
 									</h4>
 									<Link href="hausturen">

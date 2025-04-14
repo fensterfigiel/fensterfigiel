@@ -138,7 +138,16 @@ function Policy() {
 					</p>
 				</Col>
 			</Row>
-
+			<Row className="my-2">
+				<Col>
+					<h3>Hinweis zur Verwendung von Bildmaterial</h3>
+					<p>
+						Einige auf unserer Website gezeigte Fotos wurden mit freundlicher
+						Genehmigung der Firma OKNO-POL verwendet. Wir bedanken uns herzlich
+						für die Bereitstellung des Bildmaterials.
+					</p>
+				</Col>
+			</Row>
 			<Row className="my-2">
 				<Col>
 					<h3>Kontaktieren Sie uns</h3>

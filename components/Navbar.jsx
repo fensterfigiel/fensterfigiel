@@ -134,6 +134,26 @@ const NavbarComp = ({ toggleTheme }) => {
 									<span className="text-bold">Aluprof MB-104</span>
 								</NavDropdown.Item>{" "}
 							</NavDropdown>
+
+							<NavDropdown
+								title="Neu Rehau Fenster"
+								className="my-1 bg-danger rounded mx-1"
+							>
+								<NavDropdown.Item
+									as={Link}
+									href="/fensterrehau"
+									className="my-1"
+								>
+									<span className="text-bold">Rehau Fenster</span>
+								</NavDropdown.Item>
+								<NavDropdown.Divider />
+								<NavDropdown.Item as={Link} href="/rehauartevo">
+									<span className="text-bold">Rechau Artevo</span>
+								</NavDropdown.Item>{" "}
+								<NavDropdown.Item as={Link} href="rehausynego80">
+									<span className="text-bold">Rehau Synego 80</span>
+								</NavDropdown.Item>
+							</NavDropdown>
 						</NavDropdown>
 
 						<NavDropdown
